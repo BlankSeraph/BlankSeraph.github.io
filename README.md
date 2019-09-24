@@ -1,4 +1,4 @@
-# About this Cool Concise Jekyll Blog Theme 🤘🤘🤘
+# About this Concise Jekyll Blog Theme 
 
 <!-- [![GitHub stars](https://img.shields.io/github/stars/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Gaohaoyang/gaohaoyang.github.io.svg)](https://github.com/Gaohaoyang/gaohaoyang.github.io/network)
@@ -8,7 +8,7 @@
 
 With the escalation of jekyll version, but I also want to reconstruct my older blog theme, so I did reconstruction and added some features recently. My new blog theme will still be stored in this repository. I will also use this theme in the future. Now I have done basically, then I will focus on issues that users opend to make theme better.
 
-**My Blog Url: [http://gaohaoyang.github.io/](http://gaohaoyang.github.io/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
+**My Blog Url: [http://blankserapj.github.io/](http://blankseraph.github.io/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
 
 ## Content
 
@@ -48,7 +48,7 @@ With the escalation of jekyll version, but I also want to reconstruct my older b
 First of all, let's see previews.
 
 Index Page
-![index](http://ww3.sinaimg.cn/large/7011d6cfjw1f3bdli86awj211k0oyqen.jpg)
+![index](https://i.loli.net/2019/09/24/ZGXbhBxMmPfWoaJ.png)
 
 Post Page
 ![post](http://ww4.sinaimg.cn/large/7011d6cfjw1f3bdmzb9v6j210p0j7gwn.jpg)
@@ -304,7 +304,7 @@ You can also donate me for a coffee, and I'll do better. Thanks.
 
 |                                                                     PayPal                                                                     |                                 Wechat Pay                                  |                                   Alipay                                    |
 |:----------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| [![PayPal](https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png)<br>Donate via PayPal ](https://www.paypal.me/gaohaoyang) | ![wechat](http://ww2.sinaimg.cn/large/7011d6cfjw1f3bkdw3bslj206z06q3z6.jpg) | ![alipay](http://ww2.sinaimg.cn/large/7011d6cfjw1f3bk8ikzoij20740743z5.jpg) |
+| [![PayPal](https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png)<br>Donate via PayPal ](https://www.paypal.me/wuage) | ![wechat](https://i.loli.net/2019/09/24/RUVTb4m2itk6LuE.png) | ![alipay](https://i.loli.net/2019/09/24/1Kjne9tWOEvNwph.jpg) |
 
 
 
@@ -348,8 +348,6 @@ You can also donate me for a coffee, and I'll do better. Thanks.
 * `[^]` Use github flavored markdown to write code block(Fenced code blocks)
 * `[^]` Rewrite the demo page with Masonry
 * `[-]` Remove jQuery and BootStrap
-
-About this old blog theme, I won't maintain any more. And I put the code at  [Gaohaoyang/old-blog](https://github.com/Gaohaoyang/old-blog).
 
 ## License
 
