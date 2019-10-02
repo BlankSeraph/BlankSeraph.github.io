@@ -17,35 +17,38 @@ type: page
 
 热爱美好的事物，热爱DJ，组过乐队，卖过唱。
 
-很喜欢崔健的歌词：现实像块石头，精神像个蛋，石头虽然坚硬，可蛋里才是生命。
+希望投身数据科学是因为一腔热血想做点什么事，数字极客和公共管理研究人员
+
+more info ：数据主义者宣言
 
 还有，学习是一个非常愉快的过程。共同加油！
 
-* 2016.6.30 入职阿里巴巴天猫事业部
-* 2016.6 毕业于西安交通大学 软件工程硕士
-* 2015.12 获得2014-2015学年二等奖学金
-* 2015.7-2015.8 联想服务，前端开发工程师（实习生）
-* 2013.6 毕业于西安交通大学 理学院
-* 2001 获得西航四校总成绩年级排名第八名
+
+* 2017 哈尔滨工业大学管理与信息系统，大数据专业
+* 2016 哈尔滨工业大学航天学院工程力学专业
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
-* [Twitter](https://twitter.com/gaohaoyang126)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
-
+* GitHub：[blankseraph](https://github.com/blankseraph)
+* email：lucidtime@qq.com
+* [知乎](https://www.zhihu.com/people/blankseraph)
+* [Facebook](https://www.facebook.com/blankseraph)
+* [Twitter](https://twitter.com/blank_seraph)
+* [researchgate](https://www.researchgate.net/profile/Yongqi_Li5)
+* [linkedin](https://www.linkedin.com/in/blankseraph/)
+* [telegram](https://t.me/blankseraph)
+* [weibo](https://weibo.com/blankseraph)
+* [instagram](https://www.instagram.com/blankseraph)
+* [medium](https://medium.com/@blankseraph)
+* [yuque](https://www.yuque.com/wuage)
+* [indoQ](https://www.infoq.cn/profile/1687550)
 ## 关于本站
 
-**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/blankseraph/blankseraph.github.io](https://github.com/blankseraph/blankseraph.github.io)**
 
 ~欢迎使用~
 
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)。
+欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/blankseraph/blankseraph.github.io/issues)。
 
 ### Update Log
 
