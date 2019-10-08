@@ -35,7 +35,7 @@ more info ：数据主义者宣言
 * [Facebook](https://www.facebook.com/blankseraph)
 * [Twitter](https://twitter.com/blank_seraph)
 * [researchgate](https://www.researchgate.net/profile/Yongqi_Li5)
-* [linkedin](https://www.linkedin.com/in/blankseraph/)
+* [linkedin](https://www.linkedin.com/in/blankseraph)
 * [telegram](https://t.me/blankseraph)
 * [weibo](https://weibo.com/blankseraph)
 * [instagram](https://www.instagram.com/blankseraph)
