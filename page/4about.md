@@ -11,15 +11,15 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://raw.githubusercontent.com/BlankSeraph/Related-materials/master/pic/%E6%9C%89%E4%B8%80%E5%A4%A9.jpg?token=AJP4TH2MHXFDHZZEQ2JOTK25UWPMI" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 数据科学家，公共管理研究人员FROM HIT
 
-热爱美好的事物，热爱DJ，组过乐队，卖过唱。
+热爱美好的事物，热爱DJ，组过阿卡贝拉乐队买过唱。
 
-希望投身数据科学是因为一腔热血想做点什么事，数字极客和公共管理研究人员
+希望投身数据科学是因为一腔热血想做点什么事，暂时目标是数据科学家和公共管理研究人员。
 
-more info ：数据主义者宣言
+more info ：[数据主义者宣言](https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu)
 
 还有，学习是一个非常愉快的过程。共同加油！
 
