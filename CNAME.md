@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 blankseraph.top
 
