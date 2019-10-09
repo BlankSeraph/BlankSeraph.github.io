@@ -13,18 +13,18 @@ type: page
 
 <iframe src="https://raw.githubusercontent.com/BlankSeraph/Related-materials/master/pic/%E6%9C%89%E4%B8%80%E5%A4%A9.jpg?token=AJP4TH2MHXFDHZZEQ2JOTK25UWPMI" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-数据科学家，公共管理研究人员FROM HIT
+数据科学家，公共管理研究人员 IN HIT
 
-热爱美好的事物，热爱DJ，组过阿卡贝拉乐队买过唱。
+热爱美好的事物，热爱DJ，热爱机车，打篮球游泳健身，组过阿卡贝拉乐队买过唱。
 
 希望投身数据科学是因为一腔热血想做点什么事，暂时目标是数据科学家和公共管理研究人员。
 
 more info ：[数据主义者宣言](https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu)
 
-还有，学习是一个非常愉快的过程。共同加油！
+个人简历：[My resume](http://blankseraph.top/resume/)
 
-
-* 2017 哈尔滨工业大学管理与信息系统，大数据专业
+* 2019 目标更改中，北京，雄安 
+* 2018 哈尔滨工业大学管理与信息系统，大数据专业
 * 2016 哈尔滨工业大学航天学院工程力学专业
 
 ## 联系我
@@ -93,9 +93,6 @@ more info ：[数据主义者宣言](https://www.researchgate.net/publication/33
 * 2016.3-2016.4 进行了一次大的改版和重构，详见 [README](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README.md) 和博文 [对这个 jekyll 博客主题的改版和重构](http://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/)
 * 2015.3-2015.4 完成了这个博客主题的第一版。
 
-## 友情链接
-
-[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/) \|  [Ling](http://linglinyp.com/)
 
 ## Comments
 
