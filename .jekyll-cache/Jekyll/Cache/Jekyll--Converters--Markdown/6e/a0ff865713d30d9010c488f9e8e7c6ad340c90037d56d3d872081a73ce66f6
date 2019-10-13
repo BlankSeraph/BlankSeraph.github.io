@@ -1,9 +1,7 @@
-I"�<ul id="markdown-toc">
+I"�	<ul id="markdown-toc">
   <li><a href="#概念" id="markdown-toc-概念">概念</a></li>
   <li><a href="#坑" id="markdown-toc-坑">坑</a></li>
   <li><a href="#场景" id="markdown-toc-场景">场景</a></li>
-  <li><a href="#解决" id="markdown-toc-解决">解决</a></li>
-  <li><a href="#总结" id="markdown-toc-总结">总结</a></li>
 </ul>
 
 <h2 id="概念">概念</h2>
@@ -32,13 +30,5 @@
 <h2 id="场景">场景</h2>
 
 <p>因为后台与爬虫用的同一个mongodb与redis，而那台服务器又是单核的，2g运行内存。导致mongodb老是因为连接池开得过多而被挂掉，后来就买了内网的mongodb与redis服务，一开始啥都不懂，也不知道这是一个坑，在自己本机上进行mongodb，redis测试，一直连接不上去，代码是改了又改，</p>
-
-<h2 id="解决">解决</h2>
-
-<p>后来老大过来了，你这是内网的，外网的当然连接不上去了，你得在腾讯云服务器上进行连接</p>
-
-<h2 id="总结">总结</h2>
-
-<p>后来就直接在腾讯云服务器上测试连接，然后就连好了。这个问题搞到我们三到晚上12点，确实菜，然后预料到的确实少，回过头来看下代码，一点毛病都没有啊！不知道有句mmp，该不该讲。</p>
 
 :ET
