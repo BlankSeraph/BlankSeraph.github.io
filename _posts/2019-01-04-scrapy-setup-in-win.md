@@ -3,7 +3,7 @@ layout: post
 title:  "window下python3环境安装scrapy"
 categories: 爬虫
 tags:  scrapy 爬虫  
-author: SnakeSon
+author: blankseraph
 ---
 
 * content

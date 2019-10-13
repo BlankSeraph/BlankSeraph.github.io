@@ -3,7 +3,7 @@ layout: post
 title:  "Ubuntu 16.04 下MySQL的安装"
 categories: linux
 tags:  linux ubuntu16.04 工具软件  
-author: SnakeSon
+author: blankseraph
 ---
 
 * content

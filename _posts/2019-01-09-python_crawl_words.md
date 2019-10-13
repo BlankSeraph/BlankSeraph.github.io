@@ -3,7 +3,7 @@ layout: post
 title:  "News_scrapy_redis 框架系统"
 categories: 爬虫
 tags:  scrapy_redis 爬虫   
-author: SnakeSon
+author: blankseraph
 ---
 
 * content
