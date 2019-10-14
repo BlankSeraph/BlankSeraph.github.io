@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://ftp.bmp.ovh/imgs/2019/10/8ac7ef2b8aaeabe5.jpg" style="border: 0;height: 150px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://ftp.bmp.ovh/imgs/2019/10/b184133906c7df14.jpg" style="border: 0;height: 450px;width: 600px;overflow: hidden;" frameBorder="0"></iframe>
 
 数据科学家，公共管理研究人员 IN HIT
 
