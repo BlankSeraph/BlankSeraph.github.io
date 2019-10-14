@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://raw.githubusercontent.com/BlankSeraph/Related-materials/master/pic/%E6%9C%89%E4%B8%80%E5%A4%A9.jpg?token=AJP4TH2MHXFDHZZEQ2JOTK25UWPMI" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://raw.githubusercontent.com/BlankSeraph/Related-materials/master/pic/%E6%9C%89%E4%B8%80%E5%A4%A9.jpg?token=AJP4TH2MHXFDHZZEQ2JOTK25UWPMI" style="border: 0;height: 960px;width: 1280px;overflow: hidden;" frameBorder="0"></iframe>
 
 数据科学家，公共管理研究人员 IN HIT
 
