@@ -226,8 +226,8 @@ Of course, if you don't want any statistical and analysis info, you can type not
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: cf850xxxxxxxxxxxxxxxx
-google_analytics_id: UA-7xxxxxx-4 # google 分析追踪id
+baidu_tongji_id: f99cd84d64804618306932a06df32fa9
+google_analytics_id: UA-149909606-1 # google 分析追踪id
 ```
 
 When you done, you can see UV, PV, location etc. info at your own Google Analytics or Baidu Statistic console.
