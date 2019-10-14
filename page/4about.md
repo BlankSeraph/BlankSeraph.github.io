@@ -19,9 +19,6 @@ type: page
 
 希望投身数据科学是因为一腔热血想做点什么事，暂时目标是数据科学家和公共管理研究人员。
 
-more info ：[数据主义者宣言](https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu)
-
-个人简历：[My resume](http://blankseraph.top/resume/)
 
 * 2019 目标更改中，北京，雄安 
 * 2018 哈尔滨工业大学管理与信息系统，大数据专业
@@ -31,17 +28,24 @@ more info ：[数据主义者宣言](https://www.researchgate.net/publication/33
 
 * GitHub：[blankseraph](https://github.com/blankseraph)
 * email：lucidtime@qq.com
+* Wechat:z13760142
+* Tencent:137601420
 * [知乎](https://www.zhihu.com/people/blankseraph)
 * [Facebook](https://www.facebook.com/blankseraph)
 * [Twitter](https://twitter.com/blank_seraph)
-* [researchgate](https://www.researchgate.net/profile/Yongqi_Li5)
+<!-- * [researchgate](https://www.researchgate.net/profile/Yongqi_Li5) -->
 * [linkedin](https://www.linkedin.com/in/blankseraph)
-* [telegram](https://t.me/blankseraph)
+<!-- * [telegram](https://t.me/blankseraph) -->
 * [weibo](https://weibo.com/blankseraph)
 * [instagram](https://www.instagram.com/blankseraph)
 * [medium](https://medium.com/@blankseraph)
-* [yuque](https://www.yuque.com/wuage)
-* [indoQ](https://www.infoq.cn/profile/1687550)
+
+<!-- * [yuque](https://www.yuque.com/wuage)
+* [indoQ](https://www.infoq.cn/profile/1687550) -->
+more info ：[数据主义者宣言](https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu)
+
+个人简历：[My resume](http://blankseraph.top/resume/)
+
 ## 关于本站
 
 **若您想使用这个 jekyll 博客主题，请访问：[https://github.com/blankseraph/blankseraph.github.io](https://github.com/blankseraph/blankseraph.github.io)**
