@@ -13,14 +13,14 @@ type: page
 
 <iframe src="https://ftp.bmp.ovh/imgs/2019/10/b184133906c7df14.jpg" style="border: 0;height: 450px;width: 600px;overflow: hidden;" frameBorder="0"></iframe>
 
-数据科学家，公共管理研究人员 IN HIT
+数据科学家，公共管理研究人员 FROM HIT
 
-热爱美好的事物，热爱DJ，热爱机车，打篮球游泳健身，组过阿卡贝拉乐队买过唱。
+热爱美好的事物，热爱DJ，热爱机车，热爱摄影，喜欢打篮球游泳健身，组过阿卡贝拉乐队买过唱。
 
-希望投身数据科学是因为一腔热血想做点什么事，暂时目标是数据科学家和公共管理研究人员。
+希望投身数据科学是因为一腔热血想做点什么事，暂时目标是数据科学家和公共管理研究人员，创造数据构建的艺术美以及数据关联的公共管理研究。
 
 
-* 2019 目标更改中，北京，雄安 
+* 2019 目标：类似jeff hammerbacher那样的人
 * 2018 哈尔滨工业大学管理与信息系统，大数据专业
 * 2016 哈尔滨工业大学航天学院工程力学专业
 
@@ -35,16 +35,16 @@ type: page
 * [Twitter](https://twitter.com/blank_seraph)
 <!-- * [researchgate](https://www.researchgate.net/profile/Yongqi_Li5) -->
 * [linkedin](https://www.linkedin.com/in/blankseraph)
-<!-- * [telegram](https://t.me/blankseraph) -->
+* [telegram](https://t.me/blankseraph)
 * [weibo](https://weibo.com/blankseraph)
 * [instagram](https://www.instagram.com/blankseraph)
 * [medium](https://medium.com/@blankseraph)
 
 <!-- * [yuque](https://www.yuque.com/wuage)
 * [indoQ](https://www.infoq.cn/profile/1687550) -->
-more info ：[数据主义者宣言](https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu)
+* [MORE INFO] ：[数据主义者宣言](https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu)
 
-个人简历：[My resume](http://blankseraph.top/resume/)
+* [MY CV]：[My resume](http://blankseraph.top/resume/)
 
 ## 关于本站
 
@@ -94,8 +94,6 @@ more info ：[数据主义者宣言](https://www.researchgate.net/publication/33
 * `[^]` 使用 Masonry 重写了 Demo 页中的瀑布流布局，响应式交互体验更好
 * `[-]` 去除了 jQuery 和 BootStrap，使得加载速度更快
 
-* 2016.3-2016.4 进行了一次大的改版和重构，详见 [README](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README.md) 和博文 [对这个 jekyll 博客主题的改版和重构](http://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/)
-* 2015.3-2015.4 完成了这个博客主题的第一版。
 
 
 ## Comments

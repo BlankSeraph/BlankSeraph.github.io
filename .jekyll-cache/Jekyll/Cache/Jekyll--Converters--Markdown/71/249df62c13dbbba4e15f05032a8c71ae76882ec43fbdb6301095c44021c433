@@ -1,20 +1,13 @@
-I"�
-<ul id="markdown-toc">
-  <li><a href="#环境" id="markdown-toc-环境">环境：</a></li>
-  <li><a href="#初次安装" id="markdown-toc-初次安装">初次安装：</a></li>
-  <li><a href="#打开网站" id="markdown-toc-打开网站">打开网站</a></li>
-  <li><a href="#安装wheel" id="markdown-toc-安装wheel">安装wheel</a></li>
-  <li><a href="#安装whl文件" id="markdown-toc-安装whl文件">安装.whl文件</a></li>
-  <li><a href="#end" id="markdown-toc-end">end</a></li>
-</ul>
+I"(	<!-- * content
+{:toc} -->
 
-<p>目录：</p>
+<p>#前言：</p>
 
-<p>[前言]
-<a href="#jump">数据定义和数据主义哲学</a>
+<!-- [TOC] -->
+<!-- [数据定义和数据主义哲学](#jump)
 [数据引导和人的全面发展]
 [数据社会和共产主义产品经济]
-[数据人生]</p>
+[数据人生] -->
 <h2 id="环境">环境：</h2>
 
 <blockquote>

@@ -1,4 +1,4 @@
-I"�<ul id="markdown-toc">
+I"�<ul id="markdown-toc">
   <li><a href="#关于我" id="markdown-toc-关于我">关于我</a></li>
   <li><a href="#联系我" id="markdown-toc-联系我">联系我</a></li>
   <li><a href="#关于本站" id="markdown-toc-关于本站">关于本站</a>    <ul>
@@ -12,14 +12,14 @@
 
 <iframe src="https://ftp.bmp.ovh/imgs/2019/10/b184133906c7df14.jpg" style="border: 0;height: 450px;width: 600px;overflow: hidden;" frameborder="0"></iframe>
 
-<p>数据科学家，公共管理研究人员 IN HIT</p>
+<p>数据科学家，公共管理研究人员 FROM HIT</p>
 
-<p>热爱美好的事物，热爱DJ，热爱机车，打篮球游泳健身，组过阿卡贝拉乐队买过唱。</p>
+<p>热爱美好的事物，热爱DJ，热爱机车，热爱摄影，喜欢打篮球游泳健身，组过阿卡贝拉乐队买过唱。</p>
 
-<p>希望投身数据科学是因为一腔热血想做点什么事，暂时目标是数据科学家和公共管理研究人员。</p>
+<p>希望投身数据科学是因为一腔热血想做点什么事，暂时目标是数据科学家和公共管理研究人员，创造数据构建的艺术美以及数据关联的公共管理研究。</p>
 
 <ul>
-  <li>2019 目标更改中，北京，雄安</li>
+  <li>2019 目标：类似jeff hammerbacher那样的人</li>
   <li>2018 哈尔滨工业大学管理与信息系统，大数据专业</li>
   <li>2016 哈尔滨工业大学航天学院工程力学专业</li>
 </ul>
@@ -35,8 +35,8 @@
   <li><a href="https://www.facebook.com/blankseraph">Facebook</a></li>
   <li><a href="https://twitter.com/blank_seraph">Twitter</a>
 <!-- * [researchgate](https://www.researchgate.net/profile/Yongqi_Li5) --></li>
-  <li><a href="https://www.linkedin.com/in/blankseraph">linkedin</a>
-<!-- * [telegram](https://t.me/blankseraph) --></li>
+  <li><a href="https://www.linkedin.com/in/blankseraph">linkedin</a></li>
+  <li><a href="https://t.me/blankseraph">telegram</a></li>
   <li><a href="https://weibo.com/blankseraph">weibo</a></li>
   <li><a href="https://www.instagram.com/blankseraph">instagram</a></li>
   <li><a href="https://medium.com/@blankseraph">medium</a></li>
@@ -44,9 +44,14 @@
 
 <!-- * [yuque](https://www.yuque.com/wuage)
 * [indoQ](https://www.infoq.cn/profile/1687550) -->
-<p>more info ：<a href="https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu">数据主义者宣言</a></p>
-
-<p>个人简历：<a href="http://blankseraph.top/resume/">My resume</a></p>
+<ul>
+  <li>
+    <p>[MORE INFO] ：<a href="https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu">数据主义者宣言</a></p>
+  </li>
+  <li>
+    <p>[MY CV]：<a href="http://blankseraph.top/resume/">My resume</a></p>
+  </li>
+</ul>
 
 <h2 id="关于本站">关于本站</h2>
 
@@ -101,11 +106,7 @@
   <li><code class="highlighter-rouge">[+]</code> 页面内容较少时，固定 footer 在页面底部</li>
   <li><code class="highlighter-rouge">[^]</code> 使用 GitHub 风格的代码高亮写法，即```的写法，去除<code class="highlighter-rouge">highlight.js</code>代码高亮插件的使用</li>
   <li><code class="highlighter-rouge">[^]</code> 使用 Masonry 重写了 Demo 页中的瀑布流布局，响应式交互体验更好</li>
-  <li>
-    <p><code class="highlighter-rouge">[-]</code> 去除了 jQuery 和 BootStrap，使得加载速度更快</p>
-  </li>
-  <li>2016.3-2016.4 进行了一次大的改版和重构，详见 <a href="https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README.md">README</a> 和博文 <a href="http://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/">对这个 jekyll 博客主题的改版和重构</a></li>
-  <li>2015.3-2015.4 完成了这个博客主题的第一版。</li>
+  <li><code class="highlighter-rouge">[-]</code> 去除了 jQuery 和 BootStrap，使得加载速度更快</li>
 </ul>
 
 <h2 id="comments">Comments</h2>
