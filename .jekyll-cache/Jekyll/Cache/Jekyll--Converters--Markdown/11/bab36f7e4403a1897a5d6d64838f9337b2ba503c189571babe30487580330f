@@ -1,4 +1,4 @@
-I"<ul id="markdown-toc">
+I"�<ul id="markdown-toc">
   <li><a href="#关于我" id="markdown-toc-关于我">关于我</a></li>
   <li><a href="#联系我" id="markdown-toc-联系我">联系我</a></li>
   <li><a href="#关于本站" id="markdown-toc-关于本站">关于本站</a>    <ul>
@@ -10,17 +10,13 @@
 
 <h2 id="关于我">关于我</h2>
 
-<iframe src="https://raw.githubusercontent.com/BlankSeraph/Related-materials/master/pic/%E6%9C%89%E4%B8%80%E5%A4%A9.jpg?token=AJP4TH2MHXFDHZZEQ2JOTK25UWPMI" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameborder="0"></iframe>
+<iframe src="https://ftp.bmp.ovh/imgs/2019/10/b184133906c7df14.jpg" style="border: 0;height: 450px;width: 600px;overflow: hidden;" frameborder="0"></iframe>
 
 <p>数据科学家，公共管理研究人员 IN HIT</p>
 
 <p>热爱美好的事物，热爱DJ，热爱机车，打篮球游泳健身，组过阿卡贝拉乐队买过唱。</p>
 
 <p>希望投身数据科学是因为一腔热血想做点什么事，暂时目标是数据科学家和公共管理研究人员。</p>
-
-<p>more info ：<a href="https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu">数据主义者宣言</a></p>
-
-<p>个人简历：<a href="http://blankseraph.top/resume/">My resume</a></p>
 
 <ul>
   <li>2019 目标更改中，北京，雄安</li>
@@ -33,20 +29,26 @@
 <ul>
   <li>GitHub：<a href="https://github.com/blankseraph">blankseraph</a></li>
   <li>email：lucidtime@qq.com</li>
+  <li>Wechat:z13760142</li>
+  <li>Tencent:137601420</li>
   <li><a href="https://www.zhihu.com/people/blankseraph">知乎</a></li>
   <li><a href="https://www.facebook.com/blankseraph">Facebook</a></li>
-  <li><a href="https://twitter.com/blank_seraph">Twitter</a></li>
-  <li><a href="https://www.researchgate.net/profile/Yongqi_Li5">researchgate</a></li>
-  <li><a href="https://www.linkedin.com/in/blankseraph">linkedin</a></li>
-  <li><a href="https://t.me/blankseraph">telegram</a></li>
+  <li><a href="https://twitter.com/blank_seraph">Twitter</a>
+<!-- * [researchgate](https://www.researchgate.net/profile/Yongqi_Li5) --></li>
+  <li><a href="https://www.linkedin.com/in/blankseraph">linkedin</a>
+<!-- * [telegram](https://t.me/blankseraph) --></li>
   <li><a href="https://weibo.com/blankseraph">weibo</a></li>
   <li><a href="https://www.instagram.com/blankseraph">instagram</a></li>
   <li><a href="https://medium.com/@blankseraph">medium</a></li>
-  <li><a href="https://www.yuque.com/wuage">yuque</a></li>
-  <li><a href="https://www.infoq.cn/profile/1687550">indoQ</a>
-    <h2 id="关于本站">关于本站</h2>
-  </li>
 </ul>
+
+<!-- * [yuque](https://www.yuque.com/wuage)
+* [indoQ](https://www.infoq.cn/profile/1687550) -->
+<p>more info ：<a href="https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu">数据主义者宣言</a></p>
+
+<p>个人简历：<a href="http://blankseraph.top/resume/">My resume</a></p>
+
+<h2 id="关于本站">关于本站</h2>
 
 <p><strong>若您想使用这个 jekyll 博客主题，请访问：<a href="https://github.com/blankseraph/blankseraph.github.io">https://github.com/blankseraph/blankseraph.github.io</a></strong></p>
 
