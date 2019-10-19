@@ -70,7 +70,7 @@ The input ts has to be object list(n_samples,) or np.array(n_samples,).
 因为1，2股票相近，3，4股票收益率也相近，那么我就选取1，3进行赫斯特指数对比分析了。。。
 
 ### 上代码!
- -*- coding: utf-8 -*-
+ >-*- coding: utf-8 -*-
  Reference: https://en.wikipedia.org/wiki/Hurst_exponent
  python 3.6.2 AMD64
  2018/4/19
@@ -78,10 +78,13 @@ The input ts has to be object list(n_samples,) or np.array(n_samples,).
  Calculate Hurst exponent based on Rescaled range (R/S) analysis
  How to use (example):
  
+
  import Hurst 
  ts = list(range(50))
  hurst = Hurst.hurst(ts)
  Tip: ts has to be object list(n_samples,) or np.array(n_samples,)
+ 
+ 
  __Author__ = "Blank Seraph"
 
 >import numpy as np
@@ -148,6 +151,7 @@ The input ts has to be object list(n_samples,) or np.array(n_samples,).
 >ts = ts.astype(np.float)
 
 >hurst(ts)
+
 然后我们来看一下这几支股票的hurst指数究竟咋样？（分别修改ts.append(line[1]和line[2])运行
 可得第一支股票的hurst指数为0.4386795017068711；第二支股票为0.5293240661196189
 ；第三支股票为0.6555969221053866；第四支为0.5492369921528519；第五支为0.37444714098902215。
