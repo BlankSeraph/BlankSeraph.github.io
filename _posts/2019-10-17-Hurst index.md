@@ -55,9 +55,7 @@ The input ts has to be object list(n_samples,) or np.array(n_samples,).
 ![image.png](https://i.loli.net/2019/10/19/JImzgMXVEZYlvNK.png)
 首先利用R语言进行描述性分析瞧一瞧这几只股票都长啥样
 >install.packages('PerformanceAnalytics')
-
 >install.packages('DAAG')
-
 >install.packages('readr'); library('readr')
 
 >a<-read_csv('hurst.csv')
@@ -74,47 +72,37 @@ The input ts has to be object list(n_samples,) or np.array(n_samples,).
  Reference: https://en.wikipedia.org/wiki/Hurst_exponent
  python 3.6.2 AMD64
  2018/4/19
-
- Calculate Hurst exponent based on Rescaled range (R/S) analysis
- How to use (example):
+Calculate Hurst exponent based on Rescaled range (R/S) analysis
  
 
- import Hurst 
+ >import Hurst 
  ts = list(range(50))
  hurst = Hurst.hurst(ts)
  Tip: ts has to be object list(n_samples,) or np.array(n_samples,)
- 
- 
- __Author__ = "Blank Seraph"
+  __Author__ = "Blank Seraph"
 
 >import numpy as np
-
 >import pandas as pd
-
 >import  csv
 
->def hurst(ts):
-
->    N = len(ts)
->    print(N)
->   if N < 20:
-
+>      def hurst(ts):
+>      N = len(ts)
+>      print(N)
+>       if N < 20:
 >      raise ValueError("Time series is too short! input series ought to have at least 20 samples!")
+>    max_k = int(np.floor(N/2))
+>    R_S_dict = []
+>     for k in range(10,max_k+1):
+>        R,S = 0,0
+>    # split ts into subsets
+>    subset_list = [ts[i:i+k] for i in range(0,N,k)]
 
->   max_k = int(np.floor(N/2))
->  R_S_dict = []
-> for k in range(10,max_k+1):
-
->    R,S = 0,0
->   # split ts into subsets
->  subset_list = [ts[i:i+k] for i in range(0,N,k)]
-
-> if np.mod(N,k)>0:
->    subset_list.pop()
+>     if np.mod(N,k)>0:
+>        subset_list.pop()
 >   #tail = subset_list.pop()
 >  #subset_list[-1].extend(tail)
 >        # calc mean of every subset
->       mean_list=[np.mean(x) for x in subset_list]
+>     mean_list=[np.mean(x) for x in subset_list]
 
 >      for i in range(len(subset_list)):
 >         cumsum_list = pd.Series(subset_list[i]-mean_list[i]).cumsum()
@@ -122,35 +110,33 @@ The input ts has to be object list(n_samples,) or np.array(n_samples,).
 >       S += np.std(subset_list[i])
 
 >  R_S_dict.append({"R":R/len(subset_list),"S":S/len(subset_list),"n":k})
-
 >    log_R_S = []
 >   log_n = []
 >  # print(R_S_dict)
 
-> for i in range(len(R_S_dict)):
->    R_S = (R_S_dict[i]["R"]+np.spacing(1)) / (R_S_dict[i]["S"]+np.spacing(1))
->   log_R_S.append(np.log(R_S))
+>     for i in range(len(R_S_dict)):
+>        R_S = (R_S_dict[i]["R"]+np.spacing(1)) / (R_S_dict[i]["S"]+np.spacing(1))
+>     log_R_S.append(np.log(R_S))
 
->  log_n.append(np.log(R_S_dict[i]["n"]))
->   Hurst_exponent = np.polyfit(log_n,log_R_S,1)[0]
->  print(Hurst_exponent)
-> return Hurst_exponent
+>     log_n.append(np.log(R_S_dict[i]["n"]))
+>      Hurst_exponent = np.polyfit(log_n,log_R_S,1)[0]
+>     print(Hurst_exponent)
+>     return Hurst_exponent
 
->if __name__ == '__main__':
-> ts = list()
+>      if __name__ == '__main__':
+>         ts = list()
 
->with open('C:/Users/13760/Desktop/hurst.csv', mode='r', encoding='utf-8') as infile:
-> read = csv.reader(infile)
->for line in read:
+>  with open('C:/Users/13760/Desktop/hurst.csv', mode='r', encoding='utf-8') as infile:
+>   read = csv.reader(infile)
+>  for line in read:
 >   ts.append(line[1])
 
 >  # print(ts)
 
->N = len(ts)
->ts = np.array(ts)
->ts = ts.astype(np.float)
-
->hurst(ts)
+>      N = len(ts)
+>      ts = np.array(ts)
+>      ts = ts.astype(np.float)
+>           hurst(ts)
 
 然后我们来看一下这几支股票的hurst指数究竟咋样？（分别修改ts.append(line[1]和line[2])运行
 可得第一支股票的hurst指数为0.4386795017068711；第二支股票为0.5293240661196189
