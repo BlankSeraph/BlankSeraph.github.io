@@ -11,10 +11,12 @@ author: blankseraph
 
 
 ## 前言
-这些是由个人大学期间浏览整理过的比较有价值的关于AI相关的技术入门以及电子书&报告的集合，相当一部分内容涉及知识版权的付费项目，请勿广泛传播并用于商业用途，如果有相应问题请联系本站以便做出相应的反馈。
+这些是由个人大学期间浏览整理过的比较有价值的关于AI相关的技术入门资料以及电子书&报告的集合，相当一部分内容是涉及知识版权的付费项目，请勿广泛传播并用于商业用途，如果有相应问题请联系本站以便做出相应的反馈。
+
 欢迎加入哈工大AI讨论组(https://t.me/AIinhit)
+
 数据科学&区块链闲聊频道(https://t.me/datascienceHIT)
-关于我的[about](http://blankseraph.top/about/)
+
 
 ## 关于个人做过的项目和学习资料现已经开源在个人github上
 
@@ -31,6 +33,11 @@ git入门：https://github.com/BlankSeraph/git_tutorial
 github  Hackathon项目链接：https://mlh.io/event-membership
 
 不错的AI项目团队[openAI](openai.com)
+
+[重磅独家AI报告资料](ttps://jia666-my.sharepoint.com/:f:/g/personal/devil_xkx_me/Emzea_z8AppDtVbSBenQQ3QBwFLWPE3Piumo5uDg2HVwfQ?e=4gbw8c)
+
+如果对于医疗区块链以及数据科学感兴趣（有一定的领域知识了解和功底的）请联系我[about](http://blankseraph.top/about/)
+
 
 
 
