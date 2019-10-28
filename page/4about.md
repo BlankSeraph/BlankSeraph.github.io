@@ -14,6 +14,7 @@ type: page
 <iframe src="https://ftp.bmp.ovh/imgs/2019/10/b184133906c7df14.jpg" style="border: 0;height: 450px;width: 600px;overflow: hidden;" frameBorder="0"></iframe>
 
 数据科学家，公共管理研究人员 FROM HIT
+
 专注于区块链医疗，电子健康和其他数据科学领域的创新创业。
 热爱美好的事物，热爱DJ，热爱机车，热爱摄影，喜欢打篮球游泳健身，组过阿卡贝拉乐队买过唱。
 
