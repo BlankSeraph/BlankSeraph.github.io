@@ -1,0 +1,112 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#关于我" id="markdown-toc-关于我">关于我</a></li>
+  <li><a href="#联系我" id="markdown-toc-联系我">联系我</a></li>
+  <li><a href="#关于本站" id="markdown-toc-关于本站">关于本站</a></li>
+  <li><a href="#donate" id="markdown-toc-donate">Donate</a></li>
+  <li><a href="#license" id="markdown-toc-license">License</a></li>
+  <li><a href="#comments" id="markdown-toc-comments">Comments</a></li>
+</ul>
+
+<h2 id="关于我">关于我</h2>
+
+<iframe src="https://ftp.bmp.ovh/imgs/2019/10/b184133906c7df14.jpg" style="border: 0;height: 450px;width: 600px;overflow: hidden;" frameborder="0"></iframe>
+<p>Data Science&amp;Digitail health&amp;Public management</p>
+
+<p>专注于电子健康和其他数据科学领域的创新创业。
+热爱美好的事物，热爱DJ，热爱机车，热爱摄影，喜欢打篮球游泳健身，组过阿卡贝拉乐队买过唱。</p>
+
+<p>希望投身数据科学是因为一腔热血想做点什么事，暂时目标是医疗领域的数据科学家，更希望有机会创造数据构建的艺术美以及数据关联的公共管理研究。</p>
+
+<ul>
+  <li>2019 目标：jeff hammerbacher</li>
+  <li>2018 哈尔滨工业大学管理与信息系统，大数据专业</li>
+  <li>2016 哈尔滨工业大学航天学院工程力学专业</li>
+</ul>
+
+<h2 id="联系我">联系我</h2>
+
+<ul>
+  <li>GitHub：<a href="https://github.com/blankseraph">blankseraph</a></li>
+  <li>email：lucidtime@qq.com</li>
+  <li>Wechat:z13760142</li>
+  <li>Tencent:137601420</li>
+  <li>Phone：18846439213</li>
+  <li><a href="https://www.zhihu.com/people/blankseraph">知乎</a></li>
+  <li><a href="https://www.facebook.com/blankseraph">Facebook</a></li>
+  <li><a href="https://twitter.com/blank_seraph">Twitter</a>
+<!-- * [researchgate](https://www.researchgate.net/profile/Yongqi_Li5) --></li>
+  <li><a href="https://www.linkedin.com/in/blankseraph">linkedin</a></li>
+  <li><a href="https://t.me/blankseraph">telegram</a></li>
+  <li><a href="https://weibo.com/blankseraph">weibo</a></li>
+  <li><a href="https://www.instagram.com/blankseraph">instagram</a></li>
+  <li><a href="https://medium.com/@blankseraph">medium</a></li>
+</ul>
+
+<!-- * [yuque](https://www.yuque.com/wuage)
+* [indoQ](https://www.infoq.cn/profile/1687550) -->
+<ul>
+  <li>[MORE INFO] ：<a href="https://www.researchgate.net/publication/334908616_shujukexue-goujiangongchanzhuyirenleimingyungongtongtixinlantu">数据主义者宣言</a></li>
+</ul>
+
+<!-- * [MY CV]：[My resume](http://blankseraph.top/resume/) -->
+
+<h2 id="关于本站">关于本站</h2>
+
+<p><strong>若您想使用这个 jekyll 博客主题，请访问：<a href="https://github.com/blankseraph/blankseraph.github.io">https://github.com/blankseraph/blankseraph.github.io</a></strong></p>
+
+<p>~欢迎使用~</p>
+
+<p>欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 <a href="https://github.com/blankseraph/blankseraph.github.io/issues">Issue</a>。</p>
+<h2 id="donate">Donate</h2>
+
+<p>You can also donate me for a coffee, and I’ll do better. Thanks.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">PayPal</th>
+      <th style="text-align: center">Wechat Pay</th>
+      <th style="text-align: center">Alipay</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><a href="https://www.paypal.me/wuage"><img src="https://www.paypalobjects.com/webstatic/paypalme/images/pp_logo_small.png" alt="PayPal" /><br />Donate via PayPal </a></td>
+      <td style="text-align: center"><img src="https://i.loli.net/2019/09/24/RUVTb4m2itk6LuE.png" alt="wechat" /></td>
+      <td style="text-align: center"><img src="https://i.loli.net/2019/09/24/1Kjne9tWOEvNwph.jpg" alt="alipay" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="license">License</h2>
+
+<p><a href="https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/LICENSE.md">MIT License</a></p>
+
+<h2 id="comments">Comments</h2>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+     * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+
+    var disqus_config = function() {
+        this.page.url = 'http://localhost:20000/about/'; // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = 'http://localhost:20000/about/'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+
+    (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document,
+            s = d.createElement('script');
+
+        s.src = '//blankseraph.disqus.com/embed.js';
+
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+:ET
