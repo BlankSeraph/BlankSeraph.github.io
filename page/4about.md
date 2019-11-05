@@ -12,14 +12,12 @@ type: page
 ## 关于我
 
 <iframe src="https://ftp.bmp.ovh/imgs/2019/10/b184133906c7df14.jpg" style="border: 0;height: 450px;width: 600px;overflow: hidden;" frameBorder="0"></iframe>
-
-Data Science & Digitail health&Public management
+Data Science&Digitail health&Public management
 
 专注于电子健康和其他数据科学领域的创新创业。
 热爱美好的事物，热爱DJ，热爱机车，热爱摄影，喜欢打篮球游泳健身，组过阿卡贝拉乐队买过唱。
 
 希望投身数据科学是因为一腔热血想做点什么事，暂时目标是医疗领域的数据科学家，更希望有机会创造数据构建的艺术美以及数据关联的公共管理研究。
-
 
 * 2019 目标：jeff hammerbacher
 * 2018 哈尔滨工业大学管理与信息系统，大数据专业
