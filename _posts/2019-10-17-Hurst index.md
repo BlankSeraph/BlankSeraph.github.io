@@ -55,15 +55,10 @@ The input ts has to be object list(n_samples,) or np.array(n_samples,).
 ![image.png](https://i.loli.net/2019/10/19/JImzgMXVEZYlvNK.png)
 首先利用R语言进行描述性分析瞧一瞧这几只股票都长啥样
 >install.packages('PerformanceAnalytics')
-
 >install.packages('DAAG')
-
 >install.packages('readr'); library('readr')
-
 >a<-read_csv('hurst.csv')
-
->names(a)<-c('y','x2','x3','x4','x5')
-
+>names(a)<-c('y','x2','x3','x4','x5')s
 >summary(a)
 
 

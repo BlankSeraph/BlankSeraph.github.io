@@ -1,4 +1,4 @@
-I"�;<ul id="markdown-toc">
+I"�;<ul id="markdown-toc">
   <li><a href="#hurst-exponent" id="markdown-toc-hurst-exponent">Hurst Exponent</a>    <ul>
       <li><a href="#environment" id="markdown-toc-environment">Environment</a></li>
       <li><a href="#user-guide" id="markdown-toc-user-guide">User Guide</a></li>
@@ -46,19 +46,17 @@ hurst = Hurst.hurst(ts)</p>
 <blockquote>
   <p>install.packages(‘PerformanceAnalytics’)
 install.packages(‘DAAG’)
-install.packages(‘readr’); library(‘readr’)</p>
-</blockquote>
-
-<blockquote>
-  <p>a&lt;-read_csv(‘hurst.csv’)
+install.packages(‘readr’); library(‘readr’)
+a&lt;-read_csv(‘hurst.csv’)
 names(a)&lt;-c(‘y’,’x2’,’x3’,’x4’,’x5’)
 summary(a)</p>
-  <h3 id="运行后这样的">运行后这样的</h3>
-  <p><img src="https://i.loli.net/2019/10/19/MYZKuHEG5xy1WIR.png" alt="image.png" />
+</blockquote>
+
+<h3 id="运行后这样的">运行后这样的</h3>
+<p><img src="https://i.loli.net/2019/10/19/MYZKuHEG5xy1WIR.png" alt="image.png" />
 哇这几只股票长得好像啊有没有
 尤其是前两支股票其收益数据几乎重叠（怨不得呢，回头看看原始数据本来就很像，连涨跌都好似是同步的）
 因为1，2股票相近，3，4股票收益率也相近，那么我就选取1，3进行赫斯特指数对比分析了。。。</p>
-</blockquote>
 
 <h3 id="上代码">上代码!</h3>
 <blockquote>
@@ -66,21 +64,21 @@ summary(a)</p>
  Reference: https://en.wikipedia.org/wiki/Hurst_exponent
  python 3.6.2 AMD64
  2018/4/19
-Calculate Hurst exponent based on Rescaled range (R/S) analysis</p>
+ Calculate Hurst exponent based on Rescaled range (R/S) analysis</p>
 </blockquote>
 
 <blockquote>
   <p>import Hurst 
-ts = list(range(50))
-hurst = Hurst.hurst(ts)
-Tip: ts has to be object list(n_samples,) or np.array(n_samples,)
-  <strong>Author</strong> = “Blank Seraph”</p>
+import numpy as np
+import pandas as pd
+import  csv</p>
 </blockquote>
 
 <blockquote>
-  <p>import numpy as np
-import pandas as pd
-import  csv</p>
+  <p>ts = list(range(50))
+   hurst = Hurst.hurst(ts)
+    Tip: ts has to be object list(n_samples,) or np.array(n_samples,)
+ <strong>Author</strong> = “Blank Seraph”</p>
 </blockquote>
 
 <blockquote>
@@ -106,7 +104,7 @@ mean_list=[np.mean(x) for x in subset_list]
   <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> for i in range(len(subset_list)):
     cumsum_list = pd.Series(subset_list[i]-mean_list[i]).cumsum()
    R += max(cumsum_list)-min(cumsum_list)
-  S += np.std(subset_list[i])  R_S_dict.append({"R":R/len(subset_list),"S":S/len(subset_list),"n":k})    log_R_S = []   log_n = []  # print(R_S_dict)
+  S += np.std(subset_list[i]) R_S_dict.append({"R":R/len(subset_list),"S":S/len(subset_list),"n":k}) log_R_S = [] log_n = [] print(R_S_dict)
 </code></pre></div>  </div>
 </blockquote>
 
@@ -127,19 +125,8 @@ return Hurst_exponent
 
 <blockquote>
   <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> if __name__ == '__main__':
-    ts = list()
+    ts = list() with open('C:/Users/13760/Desktop/hurst.csv', mode='r', encoding='utf-8') as infile: read = csv.reader(infile) for line in read: ts.append(line[1]) print(ts)
 </code></pre></div>  </div>
-</blockquote>
-
-<blockquote>
-  <p>with open(‘C:/Users/13760/Desktop/hurst.csv’, mode=’r’, encoding=’utf-8’) as infile:
-  read = csv.reader(infile)
- for line in read:
-  ts.append(line[1])</p>
-</blockquote>
-
-<blockquote>
-  <p># print(ts)</p>
 </blockquote>
 
 <blockquote>
@@ -173,7 +160,12 @@ hurst指数的取值范围在 0 和 1 之间（不包括 0 和 1）。当hurst�
 <p>2、根据历史数据统计结果导出一般情形下某对月份的合约间的价差变化规 律，然后对比本年度同月份的合约的价差变化情况，如果偏离过大，则可能存在 价差回归过程，从而产生价差套利机会。由于资金面的松紧程度、商品的紧缺或 过剩、国家的行业政策等因素很可能发生变化，使得目前的同种商品的价格环境 与历史环境产生差异，导致价差可能不再向历史规律回归，因此按这个方式确定 的套利机会还是存在一定的风险。</p>
 
 <h3 id="根据历史数据统计结果操作方法沪深-300-套利机会分析">根据历史数据统计结果操作方法沪深 300 套利机会分析</h3>
+
+<p>沪深 300指数	10 月部分数据</p>
+
 <p><img src="https://i.loli.net/2019/11/13/Gz8WK4wOdnNXptJ.png" alt="沪深 300指数	10 月部分数据" /></p>
+
+<p>沪深 300 日价差</p>
 
 <p>星期	收盘平均价	最高价差	最低价差	日价差</p>
 
@@ -187,18 +179,16 @@ hurst指数的取值范围在 0 和 1 之间（不包括 0 和 1）。当hurst�
 
 <p>周五	3883.0850	-40.8186	-15.9315	-24.8871</p>
 
-<p>沪深 300 日价差</p>
-
 <p>从上述日期价差可以看出，虽然沪深 300 指数 10 月份日价差波动范围不是大，从 6
-0 到 1190 点；但最后交易日价差范围却处于-24 到 15 之间，最终价差都是逐步 走低到-5 点左右。55％的绝对价差都是在 40-65 点 之间。从此分析中还不能得出明显的套利行为。</p>
+0 到 1190 点；但最后交易日价差范围却处于-24 到 15 之间，最终价差都是逐步走低到 -5 点左右。55％的绝对价差都是在 40-65 点之间。从此分析中还不能得出明显的套利行为。</p>
 
 <h3 id="跨期套利操作的风险及控制">跨期套利操作的风险及控制</h3>
 
-<p>跨期套利属于风险较低、收益稳定的投资。但是低风险不等于无风险。套利 交易可能存在反向套利价差的不回归风险、正向套利的交割风险、流动性风险等。
-1、反向套利价差不回归风险：这是最常见也最容易导致套利交易亏损的风 险。在反向套利中，价差不回归风险尤其大，尤其是在商品价格熊市中，市场对 商品价格预期可能越来越悲观，从而导致远月价格进一步低估，导致价差不能回归。</p>
+<p>跨期套利属于风险较低、收益稳定的投资。但是低风险不等于无风险。套利交易可能存在反向套利价差的不回归风险、正向套利的交割风险、流动性风险等。
+1、反向套利价差不回归风险：这是最常见也最容易导致套利交易亏损的风险。在反向套利中，价差不回归风险尤其大，尤其是在商品价格熊市中，市场对商品价格预期可能越来越悲观，从而导致远月价格进一步低估，导致价差不能回归。</p>
 
-<p>2、正向套利价差不回归——导致交割风险：在正向套利中，如果价差继续 扩大，投资者需要通过交割来完成套利操作时，就存在交割风险。虽然最初操作 正向套利时，价差已经基本覆盖了交割操作所需的费用，但是，其中有一项事先 基本上是不能完全确定的项目——增值税：在近月完成交割后，如果远月继续大 幅上涨，则增值税的支出将持续增加，很快就会把本来并不太多的预期利润蚕食 掉，甚至还可能会出现亏损。</p>
+<p>2、正向套利价差不回归——导致交割风险：在正向套利中，如果价差继续 扩大，投资者需要通过交割来完成套利操作时，就存在交割风险。虽然最初操作正向套利时，价差已经基本覆盖了交割操作所需的费用，但是，其中有一项事先基本上是不能完全确定的项目——增值税：在近月完成交割后，如果远月继续大幅上涨，则增值税的支出将持续增加，很快就会把本来并不太多的预期利润蚕食掉，甚至还可能会出现亏损。</p>
 
-<p>3、做套利操作计划时还需要对所操作的合约的流动性进行分析，如果成交 量太小，将会造成大的价格冲击，使得成交后的价差不是预先计划的数量，从而 导致套利交易失败。
-在这些风险中，交割风险和流动性风险较容易估计，而且一般造成的损失也 有限。反向套利的风险则难以预先估计，而且一旦反向套利的价差不回归，往往 可能会给投资者带来很大的损失，因此，在反向套利交易中，投资者一定要注意价格冲击对于合约的影响。</p>
+<p>3、做套利操作计划时还需要对所操作的合约的流动性进行分析，如果成交量太小，将会造成大的价格冲击，使得成交后的价差不是预先计划的数量，从而导致套利交易失败。
+在这些风险中，交割风险和流动性风险较容易估计，而且一般造成的损失也有限。反向套利的风险则难以预先估计，而且一旦反向套利的价差不回归，往往可能会给投资者带来很大的损失，因此在反向套利交易中，投资者一定要注意价格冲击对于合约的影响。</p>
 :ET
