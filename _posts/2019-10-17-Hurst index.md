@@ -55,12 +55,18 @@ The input ts has to be object list(n_samples,) or np.array(n_samples,).
 ![image.png](https://i.loli.net/2019/10/19/JImzgMXVEZYlvNK.png)
 首先利用R语言进行描述性分析瞧一瞧这几只股票都长啥样
 >install.packages('PerformanceAnalytics')
+
 >install.packages('DAAG')
+
 >install.packages('readr'); library('readr')
 
 >a<-read_csv('hurst.csv')
+
 >names(a)<-c('y','x2','x3','x4','x5')
+
 >summary(a)
+
+
 ### 运行后这样的
 ![image.png](https://i.loli.net/2019/10/19/MYZKuHEG5xy1WIR.png)
 哇这几只股票长得好像啊有没有
@@ -68,22 +74,21 @@ The input ts has to be object list(n_samples,) or np.array(n_samples,).
 因为1，2股票相近，3，4股票收益率也相近，那么我就选取1，3进行赫斯特指数对比分析了。。。
 
 ### 上代码!
- >-*- coding: utf-8 -*-
+>-*- coding: utf-8 -*-
  Reference: https://en.wikipedia.org/wiki/Hurst_exponent
  python 3.6.2 AMD64
  2018/4/19
-Calculate Hurst exponent based on Rescaled range (R/S) analysis
+ Calculate Hurst exponent based on Rescaled range (R/S) analysis
  
-
- >import Hurst 
- ts = list(range(50))
- hurst = Hurst.hurst(ts)
- Tip: ts has to be object list(n_samples,) or np.array(n_samples,)
-  __Author__ = "Blank Seraph"
-
+>import Hurst 
 >import numpy as np
 >import pandas as pd
 >import  csv
+
+>   ts = list(range(50))
+>    hurst = Hurst.hurst(ts)
+>     Tip: ts has to be object list(n_samples,) or np.array(n_samples,)
+>  __Author__ = "Blank Seraph"
 
 >      def hurst(ts):
 >      N = len(ts)
@@ -108,11 +113,10 @@ Calculate Hurst exponent based on Rescaled range (R/S) analysis
 >         cumsum_list = pd.Series(subset_list[i]-mean_list[i]).cumsum()
 >        R += max(cumsum_list)-min(cumsum_list)
 >       S += np.std(subset_list[i])
-
->  R_S_dict.append({"R":R/len(subset_list),"S":S/len(subset_list),"n":k})
->    log_R_S = []
->   log_n = []
->  # print(R_S_dict)
+>R_S_dict.append({"R":R/len(subset_list),"S":S/len(subset_list),"n":k})
+> log_R_S = []
+> log_n = []
+> print(R_S_dict)
 
 >     for i in range(len(R_S_dict)):
 >        R_S = (R_S_dict[i]["R"]+np.spacing(1)) / (R_S_dict[i]["S"]+np.spacing(1))
@@ -125,13 +129,11 @@ Calculate Hurst exponent based on Rescaled range (R/S) analysis
 
 >      if __name__ == '__main__':
 >         ts = list()
-
->  with open('C:/Users/13760/Desktop/hurst.csv', mode='r', encoding='utf-8') as infile:
->   read = csv.reader(infile)
->  for line in read:
->   ts.append(line[1])
-
->  # print(ts)
+> with open('C:/Users/13760/Desktop/hurst.csv', mode='r', encoding='utf-8') as infile:
+> read = csv.reader(infile)
+> for line in read:
+> ts.append(line[1])
+> print(ts)
 
 >      N = len(ts)
 >      ts = np.array(ts)
@@ -167,9 +169,13 @@ hurst指数的取值范围在 0 和 1 之间（不包括 0 和 1）。当hurst�
 
 
 ### 根据历史数据统计结果操作方法沪深 300 套利机会分析
+
+沪深 300指数	10 月部分数据
+
 ![沪深 300指数	10 月部分数据](https://i.loli.net/2019/11/13/Gz8WK4wOdnNXptJ.png)
  
  
+沪深 300 日价差
 
 星期	收盘平均价	最高价差	最低价差	日价差
 
@@ -189,21 +195,21 @@ hurst指数的取值范围在 0 和 1 之间（不包括 0 和 1）。当hurst�
 周五	3883.0850	-40.8186	-15.9315	-24.8871
 
 
-沪深 300 日价差
+
 
  
 从上述日期价差可以看出，虽然沪深 300 指数 10 月份日价差波动范围不是大，从 6
-0 到 1190 点；但最后交易日价差范围却处于-24 到 15 之间，最终价差都是逐步 走低到-5 点左右。55％的绝对价差都是在 40-65 点 之间。从此分析中还不能得出明显的套利行为。
+0 到 1190 点；但最后交易日价差范围却处于-24 到 15 之间，最终价差都是逐步走低到 -5 点左右。55％的绝对价差都是在 40-65 点之间。从此分析中还不能得出明显的套利行为。
  
  
 ### 跨期套利操作的风险及控制
 
-跨期套利属于风险较低、收益稳定的投资。但是低风险不等于无风险。套利 交易可能存在反向套利价差的不回归风险、正向套利的交割风险、流动性风险等。
-1、反向套利价差不回归风险：这是最常见也最容易导致套利交易亏损的风 险。在反向套利中，价差不回归风险尤其大，尤其是在商品价格熊市中，市场对 商品价格预期可能越来越悲观，从而导致远月价格进一步低估，导致价差不能回归。
+跨期套利属于风险较低、收益稳定的投资。但是低风险不等于无风险。套利交易可能存在反向套利价差的不回归风险、正向套利的交割风险、流动性风险等。
+1、反向套利价差不回归风险：这是最常见也最容易导致套利交易亏损的风险。在反向套利中，价差不回归风险尤其大，尤其是在商品价格熊市中，市场对商品价格预期可能越来越悲观，从而导致远月价格进一步低估，导致价差不能回归。
 
 
-2、正向套利价差不回归——导致交割风险：在正向套利中，如果价差继续 扩大，投资者需要通过交割来完成套利操作时，就存在交割风险。虽然最初操作 正向套利时，价差已经基本覆盖了交割操作所需的费用，但是，其中有一项事先 基本上是不能完全确定的项目——增值税：在近月完成交割后，如果远月继续大 幅上涨，则增值税的支出将持续增加，很快就会把本来并不太多的预期利润蚕食 掉，甚至还可能会出现亏损。
+2、正向套利价差不回归——导致交割风险：在正向套利中，如果价差继续 扩大，投资者需要通过交割来完成套利操作时，就存在交割风险。虽然最初操作正向套利时，价差已经基本覆盖了交割操作所需的费用，但是，其中有一项事先基本上是不能完全确定的项目——增值税：在近月完成交割后，如果远月继续大幅上涨，则增值税的支出将持续增加，很快就会把本来并不太多的预期利润蚕食掉，甚至还可能会出现亏损。
 
 
-3、做套利操作计划时还需要对所操作的合约的流动性进行分析，如果成交 量太小，将会造成大的价格冲击，使得成交后的价差不是预先计划的数量，从而 导致套利交易失败。
-在这些风险中，交割风险和流动性风险较容易估计，而且一般造成的损失也 有限。反向套利的风险则难以预先估计，而且一旦反向套利的价差不回归，往往 可能会给投资者带来很大的损失，因此，在反向套利交易中，投资者一定要注意价格冲击对于合约的影响。
+3、做套利操作计划时还需要对所操作的合约的流动性进行分析，如果成交量太小，将会造成大的价格冲击，使得成交后的价差不是预先计划的数量，从而导致套利交易失败。
+在这些风险中，交割风险和流动性风险较容易估计，而且一般造成的损失也有限。反向套利的风险则难以预先估计，而且一旦反向套利的价差不回归，往往可能会给投资者带来很大的损失，因此在反向套利交易中，投资者一定要注意价格冲击对于合约的影响。
