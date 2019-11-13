@@ -1,0 +1,30 @@
+I"Z<ul id="markdown-toc">
+  <li><a href="#all-aspects-in-your-life-displaied-through-data" id="markdown-toc-all-aspects-in-your-life-displaied-through-data">All aspects in your life displaied through data</a></li>
+  <li><a href="#environment" id="markdown-toc-environment">Environment</a></li>
+  <li><a href="#user-guide" id="markdown-toc-user-guide">User Guide</a></li>
+  <li><a href="#tips" id="markdown-toc-tips">Tips</a></li>
+</ul>
+
+<h2 id="all-aspects-in-your-life-displaied-through-data">All aspects in your life displaied through data</h2>
+<p>标签化管理也许可行，但是更重要的是：
+work;life;inform;kernal
+囊括数据人生的方方面面
+人脉文件
+学习文件
+工作文件
+事业相关：人脉
+生活方面：
+备份文件：RSS 账号密码
+活动文件</p>
+
+<h2 id="environment">Environment</h2>
+<p>Python 3.6.2 AMD64<br />
+numpy (1.13.3+mkl)<br />
+pandas (0.20.3)</p>
+<h2 id="user-guide">User Guide</h2>
+<p>import Hurst<br />
+ts = list(range(50))<br />
+hurst = Hurst.hurst(ts)</p>
+<h2 id="tips">Tips</h2>
+<p>The input ts has to be object list(n_samples,) or np.array(n_samples,).</p>
+:ET
