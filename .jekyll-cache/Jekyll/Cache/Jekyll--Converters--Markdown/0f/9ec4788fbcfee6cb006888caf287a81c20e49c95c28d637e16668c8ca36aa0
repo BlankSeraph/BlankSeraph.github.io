@@ -1,238 +1,250 @@
-I"=+<ul id="markdown-toc">
-  <li><a href="#2019119" id="markdown-toc-2019119">2019.11.9</a></li>
-  <li><a href="#2019118" id="markdown-toc-2019118">2019.11.8</a></li>
-  <li><a href="#2019116" id="markdown-toc-2019116">2019.11.6</a></li>
-  <li><a href="#2019111" id="markdown-toc-2019111">2019.11.1</a></li>
-  <li><a href="#20191031" id="markdown-toc-20191031">2019。10.31</a></li>
-  <li><a href="#20191031-1" id="markdown-toc-20191031-1">2019.10.31</a></li>
-  <li><a href="#20191030" id="markdown-toc-20191030">2019.10.30</a></li>
-  <li><a href="#20191030-1" id="markdown-toc-20191030-1">2019.10.30</a></li>
-  <li><a href="#20191029" id="markdown-toc-20191029">2019.10.29</a></li>
-  <li><a href="#20191025" id="markdown-toc-20191025">2019.10.25：</a></li>
-  <li><a href="#20191024" id="markdown-toc-20191024">2019。10.24：</a></li>
-  <li><a href="#20191021" id="markdown-toc-20191021">2019.10.21：</a></li>
-  <li><a href="#2019105" id="markdown-toc-2019105">2019.10.5：</a></li>
-  <li><a href="#2019818" id="markdown-toc-2019818">2019.8.18：</a></li>
-  <li><a href="#2019818-1" id="markdown-toc-2019818-1">2019.8.18：</a></li>
-  <li><a href="#2019812" id="markdown-toc-2019812">2019.8.12：</a></li>
-  <li><a href="#2019727" id="markdown-toc-2019727">2019.7.27：</a></li>
-  <li><a href="#2019724" id="markdown-toc-2019724">2019.7.24：</a></li>
-  <li><a href="#2019724-1" id="markdown-toc-2019724-1">2019.7.24：</a></li>
-  <li><a href="#2019723" id="markdown-toc-2019723">2019.7.23：</a></li>
-  <li><a href="#2019722" id="markdown-toc-2019722">2019.7.22：</a></li>
-  <li><a href="#2019714" id="markdown-toc-2019714">2019.7.14：</a></li>
-  <li><a href="#201978" id="markdown-toc-201978">2019.7.8：</a></li>
-  <li><a href="#2019628" id="markdown-toc-2019628">2019.6.28：</a></li>
-  <li><a href="#2019620" id="markdown-toc-2019620">2019.6.20：</a></li>
-  <li><a href="#2019619" id="markdown-toc-2019619">2019.6.19：</a></li>
-  <li><a href="#2019616" id="markdown-toc-2019616">2019.6.16：</a></li>
-  <li><a href="#2019616-1" id="markdown-toc-2019616-1">2019.6.16：</a></li>
-  <li><a href="#2019615" id="markdown-toc-2019615">2019.6.15：</a></li>
-  <li><a href="#2019613" id="markdown-toc-2019613">2019.6.13：</a></li>
-  <li><a href="#201964" id="markdown-toc-201964">2019.6.4：</a></li>
-  <li><a href="#201964-1" id="markdown-toc-201964-1">2019.6.4：</a></li>
-  <li><a href="#2019521" id="markdown-toc-2019521">2019.5.21：</a></li>
-  <li><a href="#2019423" id="markdown-toc-2019423">2019.4.23：</a></li>
-  <li><a href="#2019323" id="markdown-toc-2019323">2019.3.23：</a></li>
-  <li><a href="#2019317" id="markdown-toc-2019317">2019.3.17：</a></li>
-  <li><a href="#2019225" id="markdown-toc-2019225">2019.2.25：</a></li>
-  <li><a href="#20191017" id="markdown-toc-20191017">2019.10.17：</a></li>
-  <li><a href="#20191011" id="markdown-toc-20191011">2019.10.11：</a></li>
-  <li><a href="#20191010" id="markdown-toc-20191010">2019.10.10：</a></li>
-  <li><a href="#20191010-1" id="markdown-toc-20191010-1">2019.10.10：</a></li>
-  <li><a href="#20191010-2" id="markdown-toc-20191010-2">2019.10.10：</a></li>
-  <li><a href="#2019109" id="markdown-toc-2019109">2019.10.9：</a></li>
-  <li><a href="#2019109-1" id="markdown-toc-2019109-1">2019.10.9：</a></li>
-  <li><a href="#2019109-2" id="markdown-toc-2019109-2">2019.10.9：</a></li>
-  <li><a href="#2019108" id="markdown-toc-2019108">2019.10.8：</a></li>
-  <li><a href="#2019930" id="markdown-toc-2019930">2019.9.30：</a></li>
-  <li><a href="#2019927" id="markdown-toc-2019927">2019.9.27：</a></li>
-  <li><a href="#2019926" id="markdown-toc-2019926">2019.9.26：</a></li>
-  <li><a href="#2019926-1" id="markdown-toc-2019926-1">2019.9.26：</a></li>
-  <li><a href="#201978-1" id="markdown-toc-201978-1">2019.7.8：</a></li>
-  <li><a href="#201978-2" id="markdown-toc-201978-2">2019.7.8：</a></li>
-  <li><a href="#201978-3" id="markdown-toc-201978-3">2019.7.8：</a></li>
-  <li><a href="#20197829" id="markdown-toc-20197829">2019.7、8.29：</a></li>
-  <li><a href="#201978-4" id="markdown-toc-201978-4">2019.7.8：</a></li>
-  <li><a href="#2019818-2" id="markdown-toc-2019818-2">2019.8.18：</a></li>
-  <li><a href="#201985" id="markdown-toc-201985">2019.8.5：</a></li>
-  <li><a href="#2019813" id="markdown-toc-2019813">2019.8.13：</a></li>
-  <li><a href="#2019730" id="markdown-toc-2019730">2019.7.30：</a></li>
-  <li><a href="#2019728" id="markdown-toc-2019728">2019.7.28：</a></li>
-  <li><a href="#201978-5" id="markdown-toc-201978-5">2019.7.8：</a></li>
-  <li><a href="#2019724-2" id="markdown-toc-2019724-2">2019.7.24：</a></li>
-  <li><a href="#201978-6" id="markdown-toc-201978-6">2019.7.8：</a></li>
-  <li><a href="#201978-7" id="markdown-toc-201978-7">2019.7.8：</a></li>
-  <li><a href="#201978-8" id="markdown-toc-201978-8">2019.7.8：</a></li>
-  <li><a href="#201978-9" id="markdown-toc-201978-9">2019.7.8：</a></li>
-  <li><a href="#201978-10" id="markdown-toc-201978-10">2019.7.8：</a></li>
-  <li><a href="#201978-11" id="markdown-toc-201978-11">2019.7.8：</a></li>
-  <li><a href="#201978-12" id="markdown-toc-201978-12">2019.7.8：</a></li>
-  <li><a href="#201978-13" id="markdown-toc-201978-13">2019.7.8：</a></li>
-  <li><a href="#201978-14" id="markdown-toc-201978-14">2019.7.8：</a></li>
-  <li><a href="#201978-15" id="markdown-toc-201978-15">2019.7.8：</a></li>
-  <li><a href="#201978-16" id="markdown-toc-201978-16">2019.7.8：</a></li>
-  <li><a href="#201978-17" id="markdown-toc-201978-17">2019.7.8：</a></li>
-  <li><a href="#201978-18" id="markdown-toc-201978-18">2019.7.8：</a></li>
-  <li><a href="#201978-19" id="markdown-toc-201978-19">2019.7.8：</a></li>
-  <li><a href="#201978-20" id="markdown-toc-201978-20">2019.7.8：</a></li>
-  <li><a href="#201978-21" id="markdown-toc-201978-21">2019.7.8：</a></li>
-  <li><a href="#201978-22" id="markdown-toc-201978-22">2019.7.8：</a></li>
-  <li><a href="#201978-23" id="markdown-toc-201978-23">2019.7.8：</a></li>
-  <li><a href="#201978-24" id="markdown-toc-201978-24">2019.7.8：</a></li>
-  <li><a href="#201978-25" id="markdown-toc-201978-25">2019.7.8：</a></li>
-  <li><a href="#201978-26" id="markdown-toc-201978-26">2019.7.8：</a></li>
-  <li><a href="#201978-27" id="markdown-toc-201978-27">2019.7.8：</a></li>
-  <li><a href="#201978-28" id="markdown-toc-201978-28">2019.7.8：</a></li>
-  <li><a href="#201978-29" id="markdown-toc-201978-29">2019.7.8：</a></li>
-  <li><a href="#201978-30" id="markdown-toc-201978-30">2019.7.8：</a></li>
-  <li><a href="#201978-31" id="markdown-toc-201978-31">2019.7.8：</a></li>
-  <li><a href="#201978-32" id="markdown-toc-201978-32">2019.7.8：</a></li>
-  <li><a href="#201978-33" id="markdown-toc-201978-33">2019.7.8：</a></li>
-  <li><a href="#201978-34" id="markdown-toc-201978-34">2019.7.8：</a></li>
-  <li><a href="#201978-35" id="markdown-toc-201978-35">2019.7.8：</a></li>
-  <li><a href="#201978-36" id="markdown-toc-201978-36">2019.7.8：</a></li>
-  <li><a href="#201978-37" id="markdown-toc-201978-37">2019.7.8：</a></li>
-  <li><a href="#201978-38" id="markdown-toc-201978-38">2019.7.8：</a></li>
-  <li><a href="#201978-39" id="markdown-toc-201978-39">2019.7.8：</a></li>
-  <li><a href="#201978-40" id="markdown-toc-201978-40">2019.7.8：</a></li>
-  <li><a href="#201978-41" id="markdown-toc-201978-41">2019.7.8：</a></li>
-  <li><a href="#201978-42" id="markdown-toc-201978-42">2019.7.8：</a></li>
-  <li><a href="#201978-43" id="markdown-toc-201978-43">2019.7.8：</a></li>
-  <li><a href="#201978-44" id="markdown-toc-201978-44">2019.7.8：</a></li>
-  <li><a href="#201978-45" id="markdown-toc-201978-45">2019.7.8：</a></li>
-  <li><a href="#201978-46" id="markdown-toc-201978-46">2019.7.8：</a></li>
-  <li><a href="#201978-47" id="markdown-toc-201978-47">2019.7.8：</a></li>
-  <li><a href="#201978-48" id="markdown-toc-201978-48">2019.7.8：</a></li>
-  <li><a href="#201978-49" id="markdown-toc-201978-49">2019.7.8：</a></li>
-  <li><a href="#201978-50" id="markdown-toc-201978-50">2019.7.8：</a></li>
-  <li><a href="#201978-51" id="markdown-toc-201978-51">2019.7.8：</a></li>
-  <li><a href="#201978-52" id="markdown-toc-201978-52">2019.7.8：</a></li>
-  <li><a href="#201978-53" id="markdown-toc-201978-53">2019.7.8：</a></li>
-  <li><a href="#201978-54" id="markdown-toc-201978-54">2019.7.8：</a></li>
-  <li><a href="#201978-55" id="markdown-toc-201978-55">2019.7.8：</a></li>
-  <li><a href="#201978-56" id="markdown-toc-201978-56">2019.7.8：</a></li>
-  <li><a href="#201978-57" id="markdown-toc-201978-57">2019.7.8：</a></li>
-  <li><a href="#201978-58" id="markdown-toc-201978-58">2019.7.8：</a></li>
-  <li><a href="#201978-59" id="markdown-toc-201978-59">2019.7.8：</a></li>
-  <li><a href="#201978-60" id="markdown-toc-201978-60">2019.7.8：</a></li>
-  <li><a href="#201978-61" id="markdown-toc-201978-61">2019.7.8：</a></li>
-  <li><a href="#201978-62" id="markdown-toc-201978-62">2019.7.8：</a></li>
-  <li><a href="#201978-63" id="markdown-toc-201978-63">2019.7.8：</a></li>
-  <li><a href="#201978-64" id="markdown-toc-201978-64">2019.7.8：</a></li>
-  <li><a href="#201978-65" id="markdown-toc-201978-65">2019.7.8：</a></li>
-  <li><a href="#201978-66" id="markdown-toc-201978-66">2019.7.8：</a></li>
-  <li><a href="#201978-67" id="markdown-toc-201978-67">2019.7.8：</a></li>
-  <li><a href="#201978-68" id="markdown-toc-201978-68">2019.7.8：</a></li>
-  <li><a href="#201978-69" id="markdown-toc-201978-69">2019.7.8：</a></li>
-  <li><a href="#201978-70" id="markdown-toc-201978-70">2019.7.8：</a></li>
-  <li><a href="#201978-71" id="markdown-toc-201978-71">2019.7.8：</a></li>
-  <li><a href="#201978-72" id="markdown-toc-201978-72">2019.7.8：</a></li>
-  <li><a href="#201978-73" id="markdown-toc-201978-73">2019.7.8：</a></li>
-  <li><a href="#201978-74" id="markdown-toc-201978-74">2019.7.8：</a></li>
-  <li><a href="#201978-75" id="markdown-toc-201978-75">2019.7.8：</a></li>
-  <li><a href="#201978-76" id="markdown-toc-201978-76">2019.7.8：</a></li>
-  <li><a href="#201978-77" id="markdown-toc-201978-77">2019.7.8：</a></li>
-  <li><a href="#201978-78" id="markdown-toc-201978-78">2019.7.8：</a></li>
-  <li><a href="#201978-79" id="markdown-toc-201978-79">2019.7.8：</a></li>
-  <li><a href="#201978-80" id="markdown-toc-201978-80">2019.7.8：</a></li>
-  <li><a href="#201978-81" id="markdown-toc-201978-81">2019.7.8：</a></li>
-  <li><a href="#201978-82" id="markdown-toc-201978-82">2019.7.8：</a></li>
-  <li><a href="#201978-83" id="markdown-toc-201978-83">2019.7.8：</a></li>
-  <li><a href="#201978-84" id="markdown-toc-201978-84">2019.7.8：</a></li>
-  <li><a href="#201978-85" id="markdown-toc-201978-85">2019.7.8：</a></li>
-  <li><a href="#201978-86" id="markdown-toc-201978-86">2019.7.8：</a></li>
-  <li><a href="#201978-87" id="markdown-toc-201978-87">2019.7.8：</a></li>
-  <li><a href="#201978-88" id="markdown-toc-201978-88">2019.7.8：</a></li>
-  <li><a href="#201978-89" id="markdown-toc-201978-89">2019.7.8：</a></li>
-  <li><a href="#201978-90" id="markdown-toc-201978-90">2019.7.8：</a></li>
-  <li><a href="#201978-91" id="markdown-toc-201978-91">2019.7.8：</a></li>
-  <li><a href="#201978-92" id="markdown-toc-201978-92">2019.7.8：</a></li>
-  <li><a href="#201978-93" id="markdown-toc-201978-93">2019.7.8：</a></li>
-  <li><a href="#201978-94" id="markdown-toc-201978-94">2019.7.8：</a></li>
-  <li><a href="#201978-95" id="markdown-toc-201978-95">2019.7.8：</a></li>
-  <li><a href="#201978-96" id="markdown-toc-201978-96">2019.7.8：</a></li>
-  <li><a href="#201978-97" id="markdown-toc-201978-97">2019.7.8：</a></li>
-  <li><a href="#201978-98" id="markdown-toc-201978-98">2019.7.8：</a></li>
-  <li><a href="#201978-99" id="markdown-toc-201978-99">2019.7.8：</a></li>
-  <li><a href="#201978-100" id="markdown-toc-201978-100">2019.7.8：</a></li>
-  <li><a href="#201978-101" id="markdown-toc-201978-101">2019.7.8：</a></li>
-  <li><a href="#201978-102" id="markdown-toc-201978-102">2019.7.8：</a></li>
-  <li><a href="#201978-103" id="markdown-toc-201978-103">2019.7.8：</a></li>
-  <li><a href="#201978-104" id="markdown-toc-201978-104">2019.7.8：</a></li>
-  <li><a href="#201978-105" id="markdown-toc-201978-105">2019.7.8：</a></li>
-  <li><a href="#201978-106" id="markdown-toc-201978-106">2019.7.8：</a></li>
-  <li><a href="#201978-107" id="markdown-toc-201978-107">2019.7.8：</a></li>
-  <li><a href="#201978-108" id="markdown-toc-201978-108">2019.7.8：</a></li>
-  <li><a href="#201978-109" id="markdown-toc-201978-109">2019.7.8：</a></li>
-  <li><a href="#201978-110" id="markdown-toc-201978-110">2019.7.8：</a></li>
-  <li><a href="#201978-111" id="markdown-toc-201978-111">2019.7.8：</a></li>
-  <li><a href="#201978-112" id="markdown-toc-201978-112">2019.7.8：</a></li>
-  <li><a href="#201978-113" id="markdown-toc-201978-113">2019.7.8：</a></li>
-  <li><a href="#201978-114" id="markdown-toc-201978-114">2019.7.8：</a></li>
-  <li><a href="#201978-115" id="markdown-toc-201978-115">2019.7.8：</a></li>
-  <li><a href="#201978-116" id="markdown-toc-201978-116">2019.7.8：</a></li>
-  <li><a href="#201978-117" id="markdown-toc-201978-117">2019.7.8：</a></li>
-  <li><a href="#201978-118" id="markdown-toc-201978-118">2019.7.8：</a></li>
-  <li><a href="#201978-119" id="markdown-toc-201978-119">2019.7.8：</a></li>
-  <li><a href="#201978-120" id="markdown-toc-201978-120">2019.7.8：</a></li>
-  <li><a href="#201978-121" id="markdown-toc-201978-121">2019.7.8：</a></li>
-  <li><a href="#201978-122" id="markdown-toc-201978-122">2019.7.8：</a></li>
-  <li><a href="#201978-123" id="markdown-toc-201978-123">2019.7.8：</a></li>
-  <li><a href="#201978-124" id="markdown-toc-201978-124">2019.7.8：</a></li>
-  <li><a href="#201978-125" id="markdown-toc-201978-125">2019.7.8：</a></li>
-  <li><a href="#201978-126" id="markdown-toc-201978-126">2019.7.8：</a></li>
-  <li><a href="#201978-127" id="markdown-toc-201978-127">2019.7.8：</a></li>
-  <li><a href="#201978-128" id="markdown-toc-201978-128">2019.7.8：</a></li>
-  <li><a href="#201978-129" id="markdown-toc-201978-129">2019.7.8：</a></li>
-  <li><a href="#201978-130" id="markdown-toc-201978-130">2019.7.8：</a></li>
-  <li><a href="#201978-131" id="markdown-toc-201978-131">2019.7.8：</a></li>
-  <li><a href="#201978-132" id="markdown-toc-201978-132">2019.7.8：</a></li>
-  <li><a href="#201978-133" id="markdown-toc-201978-133">2019.7.8：</a></li>
-  <li><a href="#201978-134" id="markdown-toc-201978-134">2019.7.8：</a></li>
-  <li><a href="#201978-135" id="markdown-toc-201978-135">2019.7.8：</a></li>
-  <li><a href="#201978-136" id="markdown-toc-201978-136">2019.7.8：</a></li>
-  <li><a href="#201978-137" id="markdown-toc-201978-137">2019.7.8：</a></li>
-  <li><a href="#201978-138" id="markdown-toc-201978-138">2019.7.8：</a></li>
-  <li><a href="#201978-139" id="markdown-toc-201978-139">2019.7.8：</a></li>
-  <li><a href="#201978-140" id="markdown-toc-201978-140">2019.7.8：</a></li>
-  <li><a href="#201978-141" id="markdown-toc-201978-141">2019.7.8：</a></li>
-  <li><a href="#201978-142" id="markdown-toc-201978-142">2019.7.8：</a></li>
-  <li><a href="#201978-143" id="markdown-toc-201978-143">2019.7.8：</a></li>
-  <li><a href="#201978-144" id="markdown-toc-201978-144">2019.7.8：</a></li>
-  <li><a href="#201978-145" id="markdown-toc-201978-145">2019.7.8：</a></li>
-  <li><a href="#201978-146" id="markdown-toc-201978-146">2019.7.8：</a></li>
-  <li><a href="#201978-147" id="markdown-toc-201978-147">2019.7.8：</a></li>
-  <li><a href="#201978-148" id="markdown-toc-201978-148">2019.7.8：</a></li>
-  <li><a href="#201978-149" id="markdown-toc-201978-149">2019.7.8：</a></li>
-  <li><a href="#201978-150" id="markdown-toc-201978-150">2019.7.8：</a></li>
-  <li><a href="#201978-151" id="markdown-toc-201978-151">2019.7.8：</a></li>
-  <li><a href="#201978-152" id="markdown-toc-201978-152">2019.7.8：</a></li>
-  <li><a href="#201978-153" id="markdown-toc-201978-153">2019.7.8：</a></li>
-  <li><a href="#201978-154" id="markdown-toc-201978-154">2019.7.8：</a></li>
-  <li><a href="#201978-155" id="markdown-toc-201978-155">2019.7.8：</a></li>
-  <li><a href="#201978-156" id="markdown-toc-201978-156">2019.7.8：</a></li>
-  <li><a href="#201978-157" id="markdown-toc-201978-157">2019.7.8：</a></li>
-  <li><a href="#201978-158" id="markdown-toc-201978-158">2019.7.8：</a></li>
-  <li><a href="#201978-159" id="markdown-toc-201978-159">2019.7.8：</a></li>
-  <li><a href="#201978-160" id="markdown-toc-201978-160">2019.7.8：</a></li>
-  <li><a href="#201978-161" id="markdown-toc-201978-161">2019.7.8：</a></li>
-  <li><a href="#201978-162" id="markdown-toc-201978-162">2019.7.8：</a></li>
-  <li><a href="#201978-163" id="markdown-toc-201978-163">2019.7.8：</a></li>
-  <li><a href="#201978-164" id="markdown-toc-201978-164">2019.7.8：</a></li>
-  <li><a href="#201978-165" id="markdown-toc-201978-165">2019.7.8：</a></li>
-  <li><a href="#201978-166" id="markdown-toc-201978-166">2019.7.8：</a></li>
-  <li><a href="#201978-167" id="markdown-toc-201978-167">2019.7.8：</a></li>
-  <li><a href="#201978-168" id="markdown-toc-201978-168">2019.7.8：</a></li>
+I"'6<ul id="markdown-toc">
+  <li><a href="#20191130" id="markdown-toc-20191130">2019.11.30</a></li>
+  <li><a href="#20191126" id="markdown-toc-20191126">2019.11.26</a>    <ul>
+      <li><a href="#20191123" id="markdown-toc-20191123">2019.11.23</a></li>
+      <li><a href="#2019119" id="markdown-toc-2019119">2019.11.9</a></li>
+      <li><a href="#2019118" id="markdown-toc-2019118">2019.11.8</a></li>
+      <li><a href="#2019116" id="markdown-toc-2019116">2019.11.6</a></li>
+      <li><a href="#2019111" id="markdown-toc-2019111">2019.11.1</a></li>
+      <li><a href="#20191031" id="markdown-toc-20191031">2019。10.31</a></li>
+      <li><a href="#20191031-1" id="markdown-toc-20191031-1">2019.10.31</a></li>
+      <li><a href="#20191030" id="markdown-toc-20191030">2019.10.30</a></li>
+      <li><a href="#20191030-1" id="markdown-toc-20191030-1">2019.10.30</a></li>
+      <li><a href="#20191029" id="markdown-toc-20191029">2019.10.29</a></li>
+      <li><a href="#20191025" id="markdown-toc-20191025">2019.10.25：</a></li>
+      <li><a href="#20191024" id="markdown-toc-20191024">2019。10.24：</a></li>
+      <li><a href="#20191021" id="markdown-toc-20191021">2019.10.21：</a></li>
+      <li><a href="#2019105" id="markdown-toc-2019105">2019.10.5：</a></li>
+      <li><a href="#2019818" id="markdown-toc-2019818">2019.8.18：</a></li>
+      <li><a href="#2019818-1" id="markdown-toc-2019818-1">2019.8.18：</a></li>
+      <li><a href="#2019812" id="markdown-toc-2019812">2019.8.12：</a></li>
+      <li><a href="#2019727" id="markdown-toc-2019727">2019.7.27：</a></li>
+      <li><a href="#2019724" id="markdown-toc-2019724">2019.7.24：</a></li>
+      <li><a href="#20191123-1" id="markdown-toc-20191123-1">2019.11.23：</a></li>
+      <li><a href="#2019724-1" id="markdown-toc-2019724-1">2019.7.24：</a></li>
+      <li><a href="#2019723" id="markdown-toc-2019723">2019.7.23：</a></li>
+      <li><a href="#2019722" id="markdown-toc-2019722">2019.7.22：</a></li>
+      <li><a href="#2019714" id="markdown-toc-2019714">2019.7.14：</a></li>
+      <li><a href="#201978" id="markdown-toc-201978">2019.7.8：</a></li>
+      <li><a href="#2019628" id="markdown-toc-2019628">2019.6.28：</a></li>
+      <li><a href="#2019620" id="markdown-toc-2019620">2019.6.20：</a></li>
+      <li><a href="#2019619" id="markdown-toc-2019619">2019.6.19：</a></li>
+      <li><a href="#2019616" id="markdown-toc-2019616">2019.6.16：</a></li>
+      <li><a href="#2019616-1" id="markdown-toc-2019616-1">2019.6.16：</a></li>
+      <li><a href="#2019615" id="markdown-toc-2019615">2019.6.15：</a></li>
+      <li><a href="#2019613" id="markdown-toc-2019613">2019.6.13：</a></li>
+      <li><a href="#201964" id="markdown-toc-201964">2019.6.4：</a></li>
+      <li><a href="#201964-1" id="markdown-toc-201964-1">2019.6.4：</a></li>
+      <li><a href="#2019521" id="markdown-toc-2019521">2019.5.21：</a></li>
+      <li><a href="#2019423" id="markdown-toc-2019423">2019.4.23：</a></li>
+      <li><a href="#2019323" id="markdown-toc-2019323">2019.3.23：</a></li>
+      <li><a href="#2019317" id="markdown-toc-2019317">2019.3.17：</a></li>
+      <li><a href="#2019225" id="markdown-toc-2019225">2019.2.25：</a></li>
+      <li><a href="#20191017" id="markdown-toc-20191017">2019.10.17：</a></li>
+      <li><a href="#20191011" id="markdown-toc-20191011">2019.10.11：</a></li>
+      <li><a href="#20191010" id="markdown-toc-20191010">2019.10.10：</a></li>
+      <li><a href="#20191010-1" id="markdown-toc-20191010-1">2019.10.10：</a></li>
+      <li><a href="#20191010-2" id="markdown-toc-20191010-2">2019.10.10：</a></li>
+      <li><a href="#2019109" id="markdown-toc-2019109">2019.10.9：</a></li>
+      <li><a href="#2019109-1" id="markdown-toc-2019109-1">2019.10.9：</a></li>
+      <li><a href="#2019109-2" id="markdown-toc-2019109-2">2019.10.9：</a></li>
+      <li><a href="#2019108" id="markdown-toc-2019108">2019.10.8：</a></li>
+      <li><a href="#2019930" id="markdown-toc-2019930">2019.9.30：</a></li>
+      <li><a href="#2019927" id="markdown-toc-2019927">2019.9.27：</a></li>
+      <li><a href="#2019926" id="markdown-toc-2019926">2019.9.26：</a></li>
+      <li><a href="#2019926-1" id="markdown-toc-2019926-1">2019.9.26：</a></li>
+      <li><a href="#201978-1" id="markdown-toc-201978-1">2019.7.8：</a></li>
+      <li><a href="#201978-2" id="markdown-toc-201978-2">2019.7.8：</a></li>
+      <li><a href="#201978-3" id="markdown-toc-201978-3">2019.7.8：</a></li>
+      <li><a href="#20197829" id="markdown-toc-20197829">2019.7、8.29：</a></li>
+      <li><a href="#201978-4" id="markdown-toc-201978-4">2019.7.8：</a></li>
+      <li><a href="#2019818-2" id="markdown-toc-2019818-2">2019.8.18：</a></li>
+      <li><a href="#201985" id="markdown-toc-201985">2019.8.5：</a></li>
+      <li><a href="#2019813" id="markdown-toc-2019813">2019.8.13：</a></li>
+      <li><a href="#2019730" id="markdown-toc-2019730">2019.7.30：</a></li>
+      <li><a href="#2019728" id="markdown-toc-2019728">2019.7.28：</a></li>
+      <li><a href="#201978-5" id="markdown-toc-201978-5">2019.7.8：</a></li>
+      <li><a href="#2019724-2" id="markdown-toc-2019724-2">2019.7.24：</a></li>
+      <li><a href="#201978-6" id="markdown-toc-201978-6">2019.7.8：</a></li>
+      <li><a href="#201978-7" id="markdown-toc-201978-7">2019.7.8：</a></li>
+      <li><a href="#201978-8" id="markdown-toc-201978-8">2019.7.8：</a></li>
+      <li><a href="#201978-9" id="markdown-toc-201978-9">2019.7.8：</a></li>
+      <li><a href="#201978-10" id="markdown-toc-201978-10">2019.7.8：</a></li>
+      <li><a href="#201978-11" id="markdown-toc-201978-11">2019.7.8：</a></li>
+      <li><a href="#201978-12" id="markdown-toc-201978-12">2019.7.8：</a></li>
+      <li><a href="#201978-13" id="markdown-toc-201978-13">2019.7.8：</a></li>
+      <li><a href="#201978-14" id="markdown-toc-201978-14">2019.7.8：</a></li>
+      <li><a href="#201978-15" id="markdown-toc-201978-15">2019.7.8：</a></li>
+      <li><a href="#201978-16" id="markdown-toc-201978-16">2019.7.8：</a></li>
+      <li><a href="#201978-17" id="markdown-toc-201978-17">2019.7.8：</a></li>
+      <li><a href="#201978-18" id="markdown-toc-201978-18">2019.7.8：</a></li>
+      <li><a href="#201978-19" id="markdown-toc-201978-19">2019.7.8：</a></li>
+      <li><a href="#201978-20" id="markdown-toc-201978-20">2019.7.8：</a></li>
+      <li><a href="#201978-21" id="markdown-toc-201978-21">2019.7.8：</a></li>
+      <li><a href="#201978-22" id="markdown-toc-201978-22">2019.7.8：</a></li>
+      <li><a href="#201978-23" id="markdown-toc-201978-23">2019.7.8：</a></li>
+      <li><a href="#201978-24" id="markdown-toc-201978-24">2019.7.8：</a></li>
+      <li><a href="#201978-25" id="markdown-toc-201978-25">2019.7.8：</a></li>
+      <li><a href="#201978-26" id="markdown-toc-201978-26">2019.7.8：</a></li>
+      <li><a href="#201978-27" id="markdown-toc-201978-27">2019.7.8：</a></li>
+      <li><a href="#201978-28" id="markdown-toc-201978-28">2019.7.8：</a></li>
+      <li><a href="#201978-29" id="markdown-toc-201978-29">2019.7.8：</a></li>
+      <li><a href="#201978-30" id="markdown-toc-201978-30">2019.7.8：</a></li>
+      <li><a href="#201978-31" id="markdown-toc-201978-31">2019.7.8：</a></li>
+      <li><a href="#201978-32" id="markdown-toc-201978-32">2019.7.8：</a></li>
+      <li><a href="#201978-33" id="markdown-toc-201978-33">2019.7.8：</a></li>
+      <li><a href="#201978-34" id="markdown-toc-201978-34">2019.7.8：</a></li>
+      <li><a href="#201978-35" id="markdown-toc-201978-35">2019.7.8：</a></li>
+      <li><a href="#201978-36" id="markdown-toc-201978-36">2019.7.8：</a></li>
+      <li><a href="#201978-37" id="markdown-toc-201978-37">2019.7.8：</a></li>
+      <li><a href="#201978-38" id="markdown-toc-201978-38">2019.7.8：</a></li>
+      <li><a href="#201978-39" id="markdown-toc-201978-39">2019.7.8：</a></li>
+      <li><a href="#201978-40" id="markdown-toc-201978-40">2019.7.8：</a></li>
+      <li><a href="#201978-41" id="markdown-toc-201978-41">2019.7.8：</a></li>
+      <li><a href="#201978-42" id="markdown-toc-201978-42">2019.7.8：</a></li>
+      <li><a href="#201978-43" id="markdown-toc-201978-43">2019.7.8：</a></li>
+      <li><a href="#201978-44" id="markdown-toc-201978-44">2019.7.8：</a></li>
+      <li><a href="#201978-45" id="markdown-toc-201978-45">2019.7.8：</a></li>
+      <li><a href="#201978-46" id="markdown-toc-201978-46">2019.7.8：</a></li>
+      <li><a href="#201978-47" id="markdown-toc-201978-47">2019.7.8：</a></li>
+      <li><a href="#201978-48" id="markdown-toc-201978-48">2019.7.8：</a></li>
+      <li><a href="#201978-49" id="markdown-toc-201978-49">2019.7.8：</a></li>
+      <li><a href="#201978-50" id="markdown-toc-201978-50">2019.7.8：</a></li>
+      <li><a href="#201978-51" id="markdown-toc-201978-51">2019.7.8：</a></li>
+      <li><a href="#201978-52" id="markdown-toc-201978-52">2019.7.8：</a></li>
+      <li><a href="#201978-53" id="markdown-toc-201978-53">2019.7.8：</a></li>
+      <li><a href="#201978-54" id="markdown-toc-201978-54">2019.7.8：</a></li>
+      <li><a href="#201978-55" id="markdown-toc-201978-55">2019.7.8：</a></li>
+      <li><a href="#201978-56" id="markdown-toc-201978-56">2019.7.8：</a></li>
+      <li><a href="#201978-57" id="markdown-toc-201978-57">2019.7.8：</a></li>
+      <li><a href="#201978-58" id="markdown-toc-201978-58">2019.7.8：</a></li>
+      <li><a href="#201978-59" id="markdown-toc-201978-59">2019.7.8：</a></li>
+      <li><a href="#201978-60" id="markdown-toc-201978-60">2019.7.8：</a></li>
+      <li><a href="#201978-61" id="markdown-toc-201978-61">2019.7.8：</a></li>
+      <li><a href="#201978-62" id="markdown-toc-201978-62">2019.7.8：</a></li>
+      <li><a href="#201978-63" id="markdown-toc-201978-63">2019.7.8：</a></li>
+      <li><a href="#201978-64" id="markdown-toc-201978-64">2019.7.8：</a></li>
+      <li><a href="#201978-65" id="markdown-toc-201978-65">2019.7.8：</a></li>
+      <li><a href="#201978-66" id="markdown-toc-201978-66">2019.7.8：</a></li>
+      <li><a href="#201978-67" id="markdown-toc-201978-67">2019.7.8：</a></li>
+      <li><a href="#201978-68" id="markdown-toc-201978-68">2019.7.8：</a></li>
+      <li><a href="#201978-69" id="markdown-toc-201978-69">2019.7.8：</a></li>
+      <li><a href="#201978-70" id="markdown-toc-201978-70">2019.7.8：</a></li>
+      <li><a href="#201978-71" id="markdown-toc-201978-71">2019.7.8：</a></li>
+      <li><a href="#201978-72" id="markdown-toc-201978-72">2019.7.8：</a></li>
+      <li><a href="#201978-73" id="markdown-toc-201978-73">2019.7.8：</a></li>
+      <li><a href="#201978-74" id="markdown-toc-201978-74">2019.7.8：</a></li>
+      <li><a href="#201978-75" id="markdown-toc-201978-75">2019.7.8：</a></li>
+      <li><a href="#201978-76" id="markdown-toc-201978-76">2019.7.8：</a></li>
+      <li><a href="#201978-77" id="markdown-toc-201978-77">2019.7.8：</a></li>
+      <li><a href="#201978-78" id="markdown-toc-201978-78">2019.7.8：</a></li>
+      <li><a href="#201978-79" id="markdown-toc-201978-79">2019.7.8：</a></li>
+      <li><a href="#201978-80" id="markdown-toc-201978-80">2019.7.8：</a></li>
+      <li><a href="#201978-81" id="markdown-toc-201978-81">2019.7.8：</a></li>
+      <li><a href="#201978-82" id="markdown-toc-201978-82">2019.7.8：</a></li>
+      <li><a href="#201978-83" id="markdown-toc-201978-83">2019.7.8：</a></li>
+      <li><a href="#201978-84" id="markdown-toc-201978-84">2019.7.8：</a></li>
+      <li><a href="#201978-85" id="markdown-toc-201978-85">2019.7.8：</a></li>
+      <li><a href="#201978-86" id="markdown-toc-201978-86">2019.7.8：</a></li>
+      <li><a href="#201978-87" id="markdown-toc-201978-87">2019.7.8：</a></li>
+      <li><a href="#201978-88" id="markdown-toc-201978-88">2019.7.8：</a></li>
+      <li><a href="#201978-89" id="markdown-toc-201978-89">2019.7.8：</a></li>
+      <li><a href="#201978-90" id="markdown-toc-201978-90">2019.7.8：</a></li>
+      <li><a href="#201978-91" id="markdown-toc-201978-91">2019.7.8：</a></li>
+      <li><a href="#201978-92" id="markdown-toc-201978-92">2019.7.8：</a></li>
+      <li><a href="#201978-93" id="markdown-toc-201978-93">2019.7.8：</a></li>
+      <li><a href="#201978-94" id="markdown-toc-201978-94">2019.7.8：</a></li>
+      <li><a href="#201978-95" id="markdown-toc-201978-95">2019.7.8：</a></li>
+      <li><a href="#201978-96" id="markdown-toc-201978-96">2019.7.8：</a></li>
+      <li><a href="#201978-97" id="markdown-toc-201978-97">2019.7.8：</a></li>
+      <li><a href="#201978-98" id="markdown-toc-201978-98">2019.7.8：</a></li>
+      <li><a href="#201978-99" id="markdown-toc-201978-99">2019.7.8：</a></li>
+      <li><a href="#201978-100" id="markdown-toc-201978-100">2019.7.8：</a></li>
+      <li><a href="#201978-101" id="markdown-toc-201978-101">2019.7.8：</a></li>
+      <li><a href="#201978-102" id="markdown-toc-201978-102">2019.7.8：</a></li>
+      <li><a href="#201978-103" id="markdown-toc-201978-103">2019.7.8：</a></li>
+      <li><a href="#201978-104" id="markdown-toc-201978-104">2019.7.8：</a></li>
+      <li><a href="#201978-105" id="markdown-toc-201978-105">2019.7.8：</a></li>
+      <li><a href="#201978-106" id="markdown-toc-201978-106">2019.7.8：</a></li>
+      <li><a href="#201978-107" id="markdown-toc-201978-107">2019.7.8：</a></li>
+      <li><a href="#201978-108" id="markdown-toc-201978-108">2019.7.8：</a></li>
+      <li><a href="#201978-109" id="markdown-toc-201978-109">2019.7.8：</a></li>
+      <li><a href="#201978-110" id="markdown-toc-201978-110">2019.7.8：</a></li>
+      <li><a href="#201978-111" id="markdown-toc-201978-111">2019.7.8：</a></li>
+      <li><a href="#201978-112" id="markdown-toc-201978-112">2019.7.8：</a></li>
+      <li><a href="#201978-113" id="markdown-toc-201978-113">2019.7.8：</a></li>
+      <li><a href="#201978-114" id="markdown-toc-201978-114">2019.7.8：</a></li>
+      <li><a href="#201978-115" id="markdown-toc-201978-115">2019.7.8：</a></li>
+      <li><a href="#201978-116" id="markdown-toc-201978-116">2019.7.8：</a></li>
+      <li><a href="#201978-117" id="markdown-toc-201978-117">2019.7.8：</a></li>
+      <li><a href="#201978-118" id="markdown-toc-201978-118">2019.7.8：</a></li>
+      <li><a href="#201978-119" id="markdown-toc-201978-119">2019.7.8：</a></li>
+      <li><a href="#201978-120" id="markdown-toc-201978-120">2019.7.8：</a></li>
+      <li><a href="#201978-121" id="markdown-toc-201978-121">2019.7.8：</a></li>
+      <li><a href="#201978-122" id="markdown-toc-201978-122">2019.7.8：</a></li>
+      <li><a href="#201978-123" id="markdown-toc-201978-123">2019.7.8：</a></li>
+      <li><a href="#201978-124" id="markdown-toc-201978-124">2019.7.8：</a></li>
+      <li><a href="#201978-125" id="markdown-toc-201978-125">2019.7.8：</a></li>
+      <li><a href="#201978-126" id="markdown-toc-201978-126">2019.7.8：</a></li>
+      <li><a href="#201978-127" id="markdown-toc-201978-127">2019.7.8：</a></li>
+      <li><a href="#201978-128" id="markdown-toc-201978-128">2019.7.8：</a></li>
+      <li><a href="#201978-129" id="markdown-toc-201978-129">2019.7.8：</a></li>
+      <li><a href="#201978-130" id="markdown-toc-201978-130">2019.7.8：</a></li>
+      <li><a href="#201978-131" id="markdown-toc-201978-131">2019.7.8：</a></li>
+      <li><a href="#201978-132" id="markdown-toc-201978-132">2019.7.8：</a></li>
+      <li><a href="#201978-133" id="markdown-toc-201978-133">2019.7.8：</a></li>
+      <li><a href="#201978-134" id="markdown-toc-201978-134">2019.7.8：</a></li>
+      <li><a href="#201978-135" id="markdown-toc-201978-135">2019.7.8：</a></li>
+      <li><a href="#201978-136" id="markdown-toc-201978-136">2019.7.8：</a></li>
+      <li><a href="#201978-137" id="markdown-toc-201978-137">2019.7.8：</a></li>
+      <li><a href="#201978-138" id="markdown-toc-201978-138">2019.7.8：</a></li>
+      <li><a href="#201978-139" id="markdown-toc-201978-139">2019.7.8：</a></li>
+      <li><a href="#201978-140" id="markdown-toc-201978-140">2019.7.8：</a></li>
+      <li><a href="#201978-141" id="markdown-toc-201978-141">2019.7.8：</a></li>
+      <li><a href="#201978-142" id="markdown-toc-201978-142">2019.7.8：</a></li>
+      <li><a href="#201978-143" id="markdown-toc-201978-143">2019.7.8：</a></li>
+      <li><a href="#201978-144" id="markdown-toc-201978-144">2019.7.8：</a></li>
+      <li><a href="#201978-145" id="markdown-toc-201978-145">2019.7.8：</a></li>
+      <li><a href="#201978-146" id="markdown-toc-201978-146">2019.7.8：</a></li>
+      <li><a href="#201978-147" id="markdown-toc-201978-147">2019.7.8：</a></li>
+      <li><a href="#201978-148" id="markdown-toc-201978-148">2019.7.8：</a></li>
+      <li><a href="#201978-149" id="markdown-toc-201978-149">2019.7.8：</a></li>
+      <li><a href="#201978-150" id="markdown-toc-201978-150">2019.7.8：</a></li>
+      <li><a href="#201978-151" id="markdown-toc-201978-151">2019.7.8：</a></li>
+      <li><a href="#201978-152" id="markdown-toc-201978-152">2019.7.8：</a></li>
+      <li><a href="#201978-153" id="markdown-toc-201978-153">2019.7.8：</a></li>
+      <li><a href="#201978-154" id="markdown-toc-201978-154">2019.7.8：</a></li>
+      <li><a href="#201978-155" id="markdown-toc-201978-155">2019.7.8：</a></li>
+      <li><a href="#201978-156" id="markdown-toc-201978-156">2019.7.8：</a></li>
+      <li><a href="#201978-157" id="markdown-toc-201978-157">2019.7.8：</a></li>
+      <li><a href="#201978-158" id="markdown-toc-201978-158">2019.7.8：</a></li>
+      <li><a href="#201978-159" id="markdown-toc-201978-159">2019.7.8：</a></li>
+      <li><a href="#201978-160" id="markdown-toc-201978-160">2019.7.8：</a></li>
+      <li><a href="#201978-161" id="markdown-toc-201978-161">2019.7.8：</a></li>
+      <li><a href="#201978-162" id="markdown-toc-201978-162">2019.7.8：</a></li>
+      <li><a href="#201978-163" id="markdown-toc-201978-163">2019.7.8：</a></li>
+      <li><a href="#201978-164" id="markdown-toc-201978-164">2019.7.8：</a></li>
+      <li><a href="#201978-165" id="markdown-toc-201978-165">2019.7.8：</a></li>
+      <li><a href="#201978-166" id="markdown-toc-201978-166">2019.7.8：</a></li>
+      <li><a href="#201978-167" id="markdown-toc-201978-167">2019.7.8：</a></li>
+      <li><a href="#201978-168" id="markdown-toc-201978-168">2019.7.8：</a></li>
+    </ul>
+  </li>
 </ul>
 
 <p>目录：</p>
 
 <p>[TOC]</p>
+<h1 id="20191130">2019.11.30</h1>
+<p>讨厌戴高帽的行为，搞个讲座前先形式主义半个小时，念一堆什么什么头衔，都没意思，就是你是谁，做什么的，要讲什么就好，我看那么多走在人类科学理性顶峰的人也未必这样浮夸</p>
+<h1 id="20191126">2019.11.26</h1>
+<p>所谓披上“提升你思维，锻炼你思考，多学点”这样虚伪外衣灌输知识而不告诉你这些知识怎么学怎么用的人要么坏要么无知</p>
+<h2 id="20191123">2019.11.23</h2>
+<p>给自己定了太多目标，好像这些东西都要分秒必争的去完成，但是后来才发觉，我们追求的难道不就是美好的生活？更重要的是，人生不是一个目标，而是一个过程，需要你在整个框架中随时的去体会</p>
 <h2 id="2019119">2019.11.9</h2>
 <p>愈发赞同道这个观念，太多东西只可意会不可言传，也就是这些都是难以以文字形式描述的数据，类似人心以及事物发生过程中的每一处细微，倘若你做了太多无谓之事且有悖于“对”的事情，那么无需你解释，事态演化自然而然的就会在你周遭经历的方方面面中体现，摇摆不定的意识会产生什么样的过程，低沉的意识会有怎样的经历，乐观正向的意识又会如何，正是所谓母亲以前的话“老天在看”这人生命运与事态演化，大致便是如此吧。</p>
 <h2 id="2019118">2019.11.8</h2>
-<p>近几日都有对“环境”这个概念的屡次碰触，让一个去学习了解，在哪个环境就好，甚至往往都不需要去指定什么教材和学位证书等等，就像你来到了哈工大行业学院18系，自然而然就会了解到很多数学工具，很多关于力学等自然科学的熏陶，同时和计算机的打交道，自然就会了解到github等等相关的知识，这个环境中（圈子）人余人之间数据交互，人与事的数据交互，自然而然的会产生大量的数据沉积，就像假设你是知名大学教授的孩子，那不是一出生就读博？也同时印证了比尔盖茨为什么休学创业，为什么linus能写出来类unix的linux，那不都是在外祖父从小就抱在电脑前的环境熏陶有关？这个环境熏陶，往往会比知识的传授更能提升一个人。</p>
+<p>近几日都有对“环境”这个概念的屡次碰触，让一个去学习了解，在哪个环境就好，甚至往往都不需要去指定什么教材和学位证书等等，就像你来到了哈工大航天学院18系，自然而然就会了解到很多数学工具，很多关于力学等自然科学的熏陶，同时和计算机的打交道，自然就会了解到github等等相关的知识，这个环境中（圈子）人余人之间数据交互，人与事的数据交互，自然而然的会产生大量的数据沉积，就像假设你是知名大学教授的孩子，那不是一出生就读博？也同时印证了比尔盖茨为什么休学创业，为什么linus能写出来类unix的linux，那不都是在外祖父从小就抱在电脑前的环境熏陶有关？这个环境熏陶，往往会比知识的传授更能提升一个人。</p>
 <h2 id="2019116">2019.11.6</h2>
 <p>这年头，机器搞得越来越像人，人反而活得越来越像机器，真是尴尬。</p>
 <h2 id="2019111">2019.11.1</h2>
@@ -272,6 +284,7 @@
 <p>其实人这一生，就像是一次游戏
 但倘若仅仅是游戏，有限种可能的人生，活着有啥劲</p>
 
+<p>记得一位厂长对我说，你不知道底下的工人有多贱。他们为了自己的忧患意识，明明没有好处，也会出卖工友。为了30块钱奖金，争得头破血流。厂长对我说，他们要是一起来，我就会每人多开100。可是他们的快乐，不是大家多开，而是我比你多开。厂长告诉我，他的堕落因无法不堕落，不堕落就当不了厂长开始。当不了厂长就只能被那30块钱而被工友打得头破血流。中国人的底层，是逼着你学会残忍。逼着你踩着想让你成为尸体的人的尸体往上爬。</p>
 <h2 id="2019818-1">2019.8.18：</h2>
 <p>专注每一刻：今早在五星级酒店，为什么没能料想到下楼会需要房卡，为什么遗落在餐厅的包会看不见</p>
 
@@ -284,6 +297,9 @@
 <h2 id="2019724">2019.7.24：</h2>
 <p>高考就是一种选拔制度，和教什么没太大关系，从学而思的朋友哪里也可以得出类似的结论，学什么，什么时候学不可以？
 学界都已经去开公司，运作配置资源去了，已经出不来新的知识和创新了</p>
+
+<h2 id="20191123-1">2019.11.23：</h2>
+<p>为什么高精尖，工大航天等等这些代表着高精尖科技的人，生活薪资这样？</p>
 
 <h2 id="2019724-1">2019.7.24：</h2>
 <p>说共产，父母养育我供我吃供我穿，难道还要儿女花钱吗，给自己家人看病不花钱那给他人看病也不花钱不也就是共产了，同理的家人做各种生意买卖，卖给外人拿到的是钱，那给自个家是什么呢?那不就是不独亲其亲，不独子其子的儒家大同，何以能成就这两千年来都未能有的共产主义儒家大同</p>
@@ -326,7 +342,7 @@
 <p>校园建筑是否可以这样，多一些集体活动的区域，更多的加强相互学习的机会</p>
 
 <h2 id="201964-1">2019.6.4：</h2>
-<p>资本主义体系，那种自由竞争，哪怕穷的裤衩子都飞了仍旧有机会有勇气从头再来的挑战，的竞争和创新精神是需要反思的。</p>
+<p>资本主义体系，那种自由竞争，哪怕穷的裤衩子都飞了仍旧有机会有勇气从头再来的挑战的竞争和创新精神是需要反思的。</p>
 
 <h2 id="2019521">2019.5.21：</h2>
 <p>说人性险恶，我就很怀疑，那他妈也叫人性？明明是动物性
@@ -334,7 +350,7 @@
 如果一个人的降生不能够活出人性的角色，那么某种意义上讲，这个存在是没有意义的</p>
 
 <h2 id="2019423">2019.4.23：</h2>
-<p>如今，我选择这样的道路，是&amp;i因为，技术，科技，永远不会解决那些最尖锐的矛盾和问题
+<p>如今，我选择这样的道路，是因为，技术，科技，永远不会解决那些最尖锐的矛盾和问题
 作为一名将来合格的共产党员，我希望做那个社会的引导者，引导一切亟待引导的人民解决我们现实的矛盾，合理的发展走到真正幸福的自我
 我们的青年为什么失去了理想和情怀，是被钱掣肘
 合理的引导，是关键
@@ -930,7 +946,7 @@
 
 <h2 id="201978-100">2019.7.8：</h2>
 
-<p>最近中美两国发生了一系列的贸易纠纷，特别是中兴公司被美国商务部制裁，引起我们的很多思考。从国家竞争的角度，美国是中国的对手，我们肯定要自立自强。从另一方面来说，我看这些事件也给崛起中的中国人提了一个醒。</p>
+<p>最近中美两国发生了一系列的贸易纠纷，特别是中兴公司被美国商务部制裁，引起我们的很多思考。从国家竞���������的角度，美国是中国的对手，我们肯定要自立自强。从另一方面来说，我看这些事件也给崛起中的中国人提了一个醒。</p>
 
 <p>美国，是不是还有很多值得我们学习的地方。</p>
 
