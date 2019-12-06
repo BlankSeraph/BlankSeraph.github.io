@@ -8,7 +8,7 @@
 
 # Site settings
 title: Blankseraph的技术专栏
-brief-intro: Data Science&Public Administration
+brief-intro: Data Science & Public Administration
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blankseraph.github.io" # the base hostname & protocol for your site
 
@@ -36,8 +36,8 @@ disqus_shortname: blankseraph
 # hm.src = "//hm.baidu.com/hm.js?552aa8d99c04e57a157ba015b317ce20";
 # hm.src = "//hm.baidu.com/hm.js?UA-72449510-4";
 # xxxxx字符串
-baidu_tongji_id:f99cd84d64804618306932a06df32fa9
-google_analytics_id:UA-149909606-1 # google 分析追踪id
+baidu_tongji_id: f99cd84d64804618306932a06df32fa9
+google_analytics_id: UA-149909606-1 # google 分析追踪id
 
 # Build settings
 markdown: kramdown

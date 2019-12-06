@@ -1,5 +1,5 @@
 header {
-    background: #86ffaa;
+    background: #7c5500;
     height: 52px;
     color: #9d9d9d;
     box-shadow: 0 2px 4px 1px rgba(0,0,0,0.5);
@@ -61,7 +61,7 @@ header {
 }
 @media screen and (max-width:1200px) and (min-width: 770px) {
     header {
-        height: 50px;
+        height: 70px;
         .wrapper {
             width: 90%;
             line-height: 50px;
@@ -151,7 +151,7 @@ header {
                     li {
                         font-size: 14px;
                         display: block;
-                        border-bottom: 1px solid #333;
+                        border-bottom: 1px solid rgb(255, 253, 253);
                         a {
                             display: block;
                             padding: 0 10px;
