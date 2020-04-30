@@ -10,7 +10,7 @@
 title: Blankseraph的技术专栏
 brief-intro: Data Science & Public Administration
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blankseraph.top" # the base hostname & protocol for your site
+url: "http://blankseraph.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
